@@ -1,0 +1,6 @@
+Debug/*
+Release/*
+PoiGenerator/Debug/*
+PoiGenerator/Release/*
+*.sdf
+*.user

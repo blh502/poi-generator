@@ -1,0 +1,969 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE POIs SYSTEM/>
+<POIs>
+    <POI id="1" type="2" lat="53.959357400000002" lon="-1.0815173" elevation="0" data="Temp"/>
+    <POI id="2" type="2" lat="53.956389700000003" lon="-1.0805899000000001" elevation="0" data="swapfile.sys"/>
+    <POI id="3" type="2" lat="53.959148599999999" lon="-1.0812179" elevation="0" data="Setup.log"/>
+    <POI id="4" type="2" lat="53.958688799999997" lon="-1.0796196" elevation="0" data="Program Files (x86)"/>
+    <POI id="5" type="2" lat="53.959858099999998" lon="-1.0818341" elevation="0" data="bootmgr"/>
+    <POI id="6" type="2" lat="53.959564700000001" lon="-1.0816749999999999" elevation="0" data="ProgramData"/>
+    <POI id="7" type="2" lat="53.9579071" lon="-1.0779924000000001" elevation="0" data="Documents and Settings"/>
+    <POI id="8" type="2" lat="53.961959399999998" lon="-1.0873203" elevation="0" data="bootmgr"/>
+    <POI id="9" type="2" lat="53.951684200000003" lon="-1.0846872000000001" elevation="0" data="Inkscape"/>
+    <POI id="10" type="2" lat="53.951785999999998" lon="-1.0849044999999999" elevation="0" data="FrameGrabber Recordings"/>
+    <POI id="11" type="2" lat="53.959253500000003" lon="-1.0843145000000001" elevation="0" data="PerfLogs"/>
+    <POI id="12" type="2" lat="53.949055299999998" lon="-1.091137" elevation="0" data="PerfLogs"/>
+    <POI id="13" type="2" lat="53.949383300000001" lon="-1.0910082999999999" elevation="0" data="$WINDOWS.~BT"/>
+    <POI id="14" type="2" lat="53.949367500000001" lon="-1.0903592" elevation="0" data="hiberfil.sys"/>
+    <POI id="15" type="2" lat="53.948461799999997" lon="-1.0901928999999999" elevation="0" data="Inkscape"/>
+    <POI id="16" type="2" lat="53.948692200000004" lon="-1.0913086999999999" elevation="0" data="hiberfil.sys"/>
+    <POI id="17" type="2" lat="53.958559999999999" lon="-1.0832120000000001" elevation="0" data="Temp"/>
+    <POI id="18" type="2" lat="53.951563800000002" lon="-1.0850968999999999" elevation="0" data="FrameGrabber Recordings"/>
+    <POI id="19" type="2" lat="53.951359799999999" lon="-1.0852529" elevation="0" data="hiberfil.sys"/>
+    <POI id="20" type="2" lat="53.951321900000003" lon="-1.0852771000000001" elevation="0" data="PerfLogs"/>
+    <POI id="21" type="2" lat="53.952125299999999" lon="-1.0846655000000001" elevation="0" data="BOOTNXT"/>
+    <POI id="22" type="2" lat="53.958018699999997" lon="-1.0781699" elevation="0" data="$Recycle.Bin"/>
+    <POI id="23" type="2" lat="53.951699599999998" lon="-1.0849745" elevation="0" data="Intel"/>
+    <POI id="24" type="2" lat="53.951844800000003" lon="-1.0848850999999999" elevation="0" data="BOOTNXT"/>
+    <POI id="25" type="2" lat="53.951642900000003" lon="-1.0850219999999999" elevation="0" data="ProgramData"/>
+    <POI id="26" type="2" lat="53.951886000000002" lon="-1.0848503" elevation="0" data="$Recycle.Bin"/>
+    <POI id="27" type="2" lat="53.951522900000001" lon="-1.0851185999999999" elevation="0" data="Documents and Settings"/>
+    <POI id="28" type="2" lat="53.951397200000002" lon="-1.0852124000000001" elevation="0" data="$Recycle.Bin"/>
+    <POI id="29" type="2" lat="53.951444000000002" lon="-1.0851856" elevation="0" data="$Windows.~WS"/>
+    <POI id="30" type="2" lat="53.951065200000002" lon="-1.0861566" elevation="0" data="final-year-project"/>
+    <POI id="31" type="2" lat="53.958068400000002" lon="-1.0800002" elevation="0" data="Perl64"/>
+    <POI id="32" type="2" lat="53.959524399999999" lon="-1.0817344" elevation="0" data="hiberfil.sys"/>
+    <POI id="33" type="2" lat="53.9601617" lon="-1.0837939999999999" elevation="0" data="Users"/>
+    <POI id="34" type="2" lat="53.959455200000001" lon="-1.0816482000000001" elevation="0" data="FrameGrabber Logs"/>
+    <POI id="35" type="2" lat="53.9592581" lon="-1.0813766" elevation="0" data="BOOTNXT"/>
+    <POI id="36" type="2" lat="53.958513799999999" lon="-1.0831234000000001" elevation="0" data="swapfile.sys"/>
+    <POI id="37" type="2" lat="53.958947899999998" lon="-1.0809354" elevation="0" data="$Recycle.Bin"/>
+    <POI id="38" type="2" lat="53.959308999999998" lon="-1.0814414999999999" elevation="0" data="hiberfil.sys"/>
+    <POI id="39" type="2" lat="53.958872800000002" lon="-1.0808153" elevation="0" data="Setup.log"/>
+    <POI id="40" type="2" lat="53.958805499999997" lon="-1.0807180000000001" elevation="0" data="PerfLogs"/>
+    <POI id="41" type="2" lat="53.959409600000001" lon="-1.0815797" elevation="0" data="Intel"/>
+    <POI id="42" type="2" lat="53.959028699999998" lon="-1.0810630999999999" elevation="0" data="Intel"/>
+    <POI id="43" type="2" lat="53.958656099999999" lon="-1.0821657" elevation="0" data="ProgramData"/>
+    <POI id="44" type="2" lat="53.958711600000001" lon="-1.0819771" elevation="0" data="Develop"/>
+    <POI id="45" type="2" lat="53.959087699999998" lon="-1.0811478000000001" elevation="0" data="ProgramData"/>
+    <POI id="46" type="2" lat="53.958610999999998" lon="-1.0804175" elevation="0" data="swapfile.sys"/>
+    <POI id="47" type="2" lat="53.959916100000001" lon="-1.0832902" elevation="0" data="FrameGrabber Logs"/>
+    <POI id="48" type="2" lat="53.959316999999999" lon="-1.083858" elevation="0" data="Perl64"/>
+    <POI id="49" type="2" lat="53.959597600000002" lon="-1.0816216000000001" elevation="0" data="os_transfer"/>
+    <POI id="50" type="2" lat="53.959769999999999" lon="-1.0829548" elevation="0" data="FrameGrabber Recordings"/>
+    <POI id="51" type="2" lat="53.9600437" lon="-1.083572" elevation="0" data="BOOTNXT"/>
+    <POI id="52" type="2" lat="53.959809499999999" lon="-1.0830465" elevation="0" data="Inkscape"/>
+    <POI id="53" type="2" lat="53.959742400000003" lon="-1.0828473999999999" elevation="0" data="BOOTNXT"/>
+    <POI id="54" type="2" lat="53.960092400000001" lon="-1.0836524999999999" elevation="0" data="System Volume Information"/>
+    <POI id="55" type="2" lat="53.957945600000002" lon="-1.0797629" elevation="0" data="Users"/>
+    <POI id="56" type="2" lat="53.959735299999998" lon="-1.0816802999999999" elevation="0" data="swapfile.sys"/>
+    <POI id="57" type="2" lat="53.959873999999999" lon="-1.0831873999999999" elevation="0" data="final-year-project"/>
+    <POI id="58" type="2" lat="53.959961700000001" lon="-1.0820532" elevation="0" data="FrameGrabber Recordings"/>
+    <POI id="59" type="2" lat="53.959962099999998" lon="-1.0834109999999999" elevation="0" data="MSOCache"/>
+    <POI id="60" type="2" lat="53.959626499999999" lon="-1.0815672999999999" elevation="0" data="Temp"/>
+    <POI id="61" type="2" lat="53.9582075" lon="-1.0797766" elevation="0" data="Program Files (x86)"/>
+    <POI id="62" type="2" lat="53.957967199999999" lon="-1.0793725999999999" elevation="0" data="ProgramData"/>
+    <POI id="63" type="2" lat="53.958017099999999" lon="-1.0794725000000001" elevation="0" data="Recovery"/>
+    <POI id="64" type="2" lat="53.957302599999998" lon="-1.0782560000000001" elevation="0" data="bootmgr"/>
+    <POI id="65" type="2" lat="53.957544200000001" lon="-1.0792683000000001" elevation="0" data="Users"/>
+    <POI id="66" type="2" lat="53.958252199999997" lon="-1.0798592" elevation="0" data="os_transfer"/>
+    <POI id="67" type="2" lat="53.958065599999998" lon="-1.0795528999999999" elevation="0" data="final-year-project"/>
+    <POI id="68" type="2" lat="53.951663699999997" lon="-1.0849937999999999" elevation="0" data="Program Files (x86)"/>
+    <POI id="69" type="2" lat="53.951936600000003" lon="-1.0848027" elevation="0" data="MSOCache"/>
+    <POI id="70" type="2" lat="53.952044399999998" lon="-1.084713" elevation="0" data="Develop"/>
+    <POI id="71" type="2" lat="53.952220599999997" lon="-1.0845818" elevation="0" data="final-year-project"/>
+    <POI id="72" type="2" lat="53.961179299999998" lon="-1.0850663" elevation="0" data="Intel"/>
+    <POI id="73" type="2" lat="53.960938200000001" lon="-1.0845256999999999" elevation="0" data="$WINDOWS.~BT"/>
+    <POI id="74" type="2" lat="53.960365099999997" lon="-1.0842018" elevation="0" data="Recovery"/>
+    <POI id="75" type="2" lat="53.960446900000001" lon="-1.0842761999999999" elevation="0" data="BOOTNXT"/>
+    <POI id="76" type="2" lat="53.961036999999997" lon="-1.0845905" elevation="0" data="$Windows.~WS"/>
+    <POI id="77" type="2" lat="53.960984799999999" lon="-1.0848352000000001" elevation="0" data="Inkscape"/>
+    <POI id="78" type="2" lat="53.961069500000001" lon="-1.0849359999999999" elevation="0" data="Users"/>
+    <POI id="79" type="2" lat="53.960774499999999" lon="-1.0844609000000001" elevation="0" data="os_transfer"/>
+    <POI id="80" type="2" lat="53.961022900000003" lon="-1.0848808000000001" elevation="0" data="pagefile.sys"/>
+    <POI id="81" type="2" lat="53.9608676" lon="-1.0844681" elevation="0" data="Program Files"/>
+    <POI id="82" type="2" lat="53.961063899999999" lon="-1.0846145" elevation="0" data="pagefile.sys"/>
+    <POI id="83" type="2" lat="53.961113300000001" lon="-1.0846336999999999" elevation="0" data="FrameGrabber Logs"/>
+    <POI id="84" type="2" lat="53.958635100000002" lon="-1.0797431" elevation="0" data="hiberfil.sys"/>
+    <POI id="85" type="2" lat="53.957304399999998" lon="-1.077488" elevation="0" data="MSOCache"/>
+    <POI id="86" type="2" lat="53.951603400000003" lon="-1.0850455000000001" elevation="0" data="BOOTNXT"/>
+    <POI id="87" type="2" lat="53.951021300000001" lon="-1.0857444999999999" elevation="0" data="Inkscape"/>
+    <POI id="88" type="2" lat="53.9508619" lon="-1.0858597999999999" elevation="0" data="FrameGrabber Logs"/>
+    <POI id="89" type="2" lat="53.950865399999998" lon="-1.0858038999999999" elevation="0" data="$Recycle.Bin"/>
+    <POI id="90" type="2" lat="53.950867000000002" lon="-1.0857408" elevation="0" data="FrameGrabber Logs"/>
+    <POI id="91" type="2" lat="53.9508662" lon="-1.0856724" elevation="0" data="Python27"/>
+    <POI id="92" type="2" lat="53.950875699999997" lon="-1.0850166000000001" elevation="0" data="$Recycle.Bin"/>
+    <POI id="93" type="2" lat="53.951352700000001" lon="-1.0848816999999999" elevation="0" data="Perl64"/>
+    <POI id="94" type="2" lat="53.951226800000001" lon="-1.0849711" elevation="0" data="ProgramData"/>
+    <POI id="95" type="2" lat="53.952448599999997" lon="-1.0849432000000001" elevation="0" data="Setup.log"/>
+    <POI id="96" type="2" lat="53.952252700000003" lon="-1.0846277" elevation="0" data="Develop"/>
+    <POI id="97" type="2" lat="53.952525999999999" lon="-1.0846587000000001" elevation="0" data="Develop"/>
+    <POI id="98" type="2" lat="53.952278900000003" lon="-1.0846722" elevation="0" data="Temp"/>
+    <POI id="99" type="2" lat="53.960206100000001" lon="-1.0838646999999999" elevation="0" data="FrameGrabber Logs"/>
+    <POI id="100" type="2" lat="53.956133700000002" lon="-1.0665958" elevation="0" data="$Windows.~WS"/>
+    <POI id="101" type="2" lat="53.956099500000001" lon="-1.0665876999999999" elevation="0" data="Recovery"/>
+    <POI id="102" type="2" lat="53.957918900000003" lon="-1.0783167" elevation="0" data="System Volume Information"/>
+    <POI id="103" type="2" lat="53.957535200000002" lon="-1.0778403999999999" elevation="0" data="Intel"/>
+    <POI id="104" type="2" lat="53.958063699999997" lon="-1.0784635" elevation="0" data="Setup.log"/>
+    <POI id="105" type="2" lat="53.958385700000001" lon="-1.0785769999999999" elevation="0" data="final-year-project"/>
+    <POI id="106" type="2" lat="53.9581503" lon="-1.0783275999999999" elevation="0" data="$Windows.~WS"/>
+    <POI id="107" type="2" lat="53.958439200000001" lon="-1.078854" elevation="0" data="Windows"/>
+    <POI id="108" type="2" lat="53.9600668" lon="-1.0811622000000001" elevation="0" data="Program Files (x86)"/>
+    <POI id="109" type="2" lat="53.959776900000001" lon="-1.0815999999999999" elevation="0" data="FrameGrabber Logs"/>
+    <POI id="110" type="2" lat="53.959300399999997" lon="-1.0792272999999999" elevation="0" data="Documents and Settings"/>
+    <POI id="111" type="2" lat="53.959271899999997" lon="-1.0794132000000001" elevation="0" data="os_transfer"/>
+    <POI id="112" type="2" lat="53.958502199999998" lon="-1.0789203000000001" elevation="0" data="Program Files (x86)"/>
+    <POI id="113" type="2" lat="53.958872499999998" lon="-1.0792565999999999" elevation="0" data="Python27"/>
+    <POI id="114" type="2" lat="53.957161499999998" lon="-1.0819174" elevation="0" data="Inkscape"/>
+    <POI id="115" type="2" lat="53.960291099999999" lon="-1.0763244000000001" elevation="0" data="Users"/>
+    <POI id="116" type="2" lat="53.958691100000003" lon="-1.0820727999999999" elevation="0" data="$Windows.~WS"/>
+    <POI id="117" type="1" lat="53.932070099999997" lon="-1.1172818" elevation="0" data="Inkscape"/>
+    <POI id="118" type="1" lat="53.960432300000001" lon="-1.072757" elevation="0" data="final-year-project"/>
+    <POI id="119" type="1" lat="53.959107699999997" lon="-1.0903214000000001" elevation="0" data="Python27"/>
+    <POI id="120" type="1" lat="53.973472800000003" lon="-1.1492948000000001" elevation="0" data="MSOCache"/>
+    <POI id="121" type="1" lat="53.954513499999997" lon="-1.0799955000000001" elevation="0" data="Recovery"/>
+    <POI id="122" type="1" lat="53.953720500000003" lon="-1.0867473000000001" elevation="0" data="Program Files (x86)"/>
+    <POI id="123" type="1" lat="53.9892605" lon="-1.0702738000000001" elevation="0" data="$WINDOWS.~BT"/>
+    <POI id="124" type="1" lat="53.956477" lon="-1.0926845999999999" elevation="0" data="Windows"/>
+    <POI id="125" type="1" lat="53.961083799999997" lon="-1.0857831" elevation="0" data="pagefile.sys"/>
+    <POI id="126" type="1" lat="53.962568500000003" lon="-1.0854021" elevation="0" data="$Windows.~WS"/>
+    <POI id="127" type="1" lat="53.963691300000001" lon="-1.0847122" elevation="0" data="FrameGrabber Recordings"/>
+    <POI id="128" type="1" lat="53.963522500000003" lon="-1.0792579" elevation="0" data="FrameGrabber Recordings"/>
+    <POI id="129" type="1" lat="53.962255599999999" lon="-1.0767817" elevation="0" data="Setup.log"/>
+    <POI id="130" type="1" lat="53.962016599999998" lon="-1.1052873000000001" elevation="0" data="swapfile.sys"/>
+    <POI id="131" type="1" lat="53.958436200000001" lon="-1.0921822999999999" elevation="0" data="PerfLogs"/>
+    <POI id="132" type="1" lat="53.966908199999999" lon="-1.0773687000000001" elevation="0" data="$Recycle.Bin"/>
+    <POI id="133" type="1" lat="53.962917300000001" lon="-1.0783035000000001" elevation="0" data="Intel"/>
+    <POI id="134" type="1" lat="53.9639825" lon="-1.0726467" elevation="0" data="Users"/>
+    <POI id="135" type="1" lat="53.960898100000001" lon="-1.0799599" elevation="0" data="swapfile.sys"/>
+    <POI id="136" type="1" lat="53.966600399999997" lon="-1.0675380000000001" elevation="0" data="Python27"/>
+    <POI id="137" type="1" lat="53.965307199999998" lon="-1.0779684" elevation="0" data="BOOTNXT"/>
+    <POI id="138" type="1" lat="53.964014499999998" lon="-1.0792463000000001" elevation="0" data="Documents and Settings"/>
+    <POI id="139" type="1" lat="53.964529400000004" lon="-1.0749785999999999" elevation="0" data="Temp"/>
+    <POI id="140" type="1" lat="53.965566000000003" lon="-1.0749521" elevation="0" data="Python27"/>
+    <POI id="141" type="1" lat="53.967548000000001" lon="-1.0815243999999999" elevation="0" data="Develop"/>
+    <POI id="142" type="1" lat="53.966213099999997" lon="-1.0783003" elevation="0" data="os_transfer"/>
+    <POI id="143" type="1" lat="53.967167699999997" lon="-1.0741586999999999" elevation="0" data="Intel"/>
+    <POI id="144" type="1" lat="53.967841999999997" lon="-1.0813060000000001" elevation="0" data="Program Files"/>
+    <POI id="145" type="1" lat="53.966246499999997" lon="-1.0649499" elevation="0" data="System Volume Information"/>
+    <POI id="146" type="1" lat="53.965362200000001" lon="-1.0653793" elevation="0" data="Perl64"/>
+    <POI id="147" type="1" lat="53.9694979" lon="-1.2159835999999999" elevation="0" data="BOOTNXT"/>
+    <POI id="148" type="1" lat="53.965728300000002" lon="-1.0673821999999999" elevation="0" data="FrameGrabber Logs"/>
+    <POI id="149" type="1" lat="53.9666006" lon="-1.0697806999999999" elevation="0" data="pagefile.sys"/>
+    <POI id="150" type="1" lat="53.965448899999998" lon="-1.0719437999999999" elevation="0" data="MSOCache"/>
+    <POI id="151" type="1" lat="53.970422200000002" lon="-1.0734147999999999" elevation="0" data="bootmgr"/>
+    <POI id="152" type="1" lat="53.959016900000002" lon="-1.0791421000000001" elevation="0" data="hiberfil.sys"/>
+    <POI id="153" type="1" lat="53.963611100000001" lon="-1.0748758" elevation="0" data="hiberfil.sys"/>
+    <POI id="154" type="1" lat="54.049907699999999" lon="-1.0137602999999999" elevation="0" data="FrameGrabber Logs"/>
+    <POI id="155" type="1" lat="53.961525999999999" lon="-1.0737504" elevation="0" data="Users"/>
+    <POI id="156" type="1" lat="53.960276499999999" lon="-1.0756971" elevation="0" data="final-year-project"/>
+    <POI id="157" type="1" lat="53.961356799999997" lon="-1.0743772" elevation="0" data="Recovery"/>
+    <POI id="158" type="1" lat="53.965164899999998" lon="-1.0731431" elevation="0" data="PerfLogs"/>
+    <POI id="159" type="1" lat="53.958819900000002" lon="-1.0895759" elevation="0" data="final-year-project"/>
+    <POI id="160" type="1" lat="53.957696800000001" lon="-1.0822050000000001" elevation="0" data="System Volume Information"/>
+    <POI id="161" type="1" lat="53.9575551" lon="-1.0830253999999999" elevation="0" data="Python27"/>
+    <POI id="162" type="1" lat="53.954545600000003" lon="-1.0928716000000001" elevation="0" data="$Recycle.Bin"/>
+    <POI id="163" type="1" lat="53.957497199999999" lon="-1.0833393" elevation="0" data="Perl64"/>
+    <POI id="164" type="1" lat="53.965901799999997" lon="-1.0790934000000001" elevation="0" data="Users"/>
+    <POI id="165" type="1" lat="53.966301399999999" lon="-1.0792953000000001" elevation="0" data="swapfile.sys"/>
+    <POI id="166" type="1" lat="53.965796099999999" lon="-1.0788331" elevation="0" data="Users"/>
+    <POI id="167" type="1" lat="53.965305399999998" lon="-1.0769963" elevation="0" data="Users"/>
+    <POI id="168" type="1" lat="53.9645078" lon="-1.0767414" elevation="0" data="Perl64"/>
+    <POI id="169" type="1" lat="53.964887599999997" lon="-1.0771173999999999" elevation="0" data="ProgramData"/>
+    <POI id="170" type="1" lat="53.961648599999997" lon="-1.0758359" elevation="0" data="FrameGrabber Recordings"/>
+    <POI id="171" type="1" lat="53.962632200000002" lon="-1.0767605" elevation="0" data="Setup.log"/>
+    <POI id="172" type="1" lat="53.960955499999997" lon="-1.0733619000000001" elevation="0" data="BOOTNXT"/>
+    <POI id="173" type="1" lat="53.958851199999998" lon="-1.0791385" elevation="0" data="bootmgr"/>
+    <POI id="174" type="1" lat="53.956541000000001" lon="-1.0746754000000001" elevation="0" data="Develop"/>
+    <POI id="175" type="1" lat="53.957697799999998" lon="-1.0779221999999999" elevation="0" data="Program Files (x86)"/>
+    <POI id="176" type="1" lat="53.956201999999998" lon="-1.0770755000000001" elevation="0" data="Recovery"/>
+    <POI id="177" type="1" lat="53.958158599999997" lon="-1.0804123999999999" elevation="0" data="MSOCache"/>
+    <POI id="178" type="1" lat="53.957259200000003" lon="-1.0784691" elevation="0" data="$Recycle.Bin"/>
+    <POI id="179" type="1" lat="53.954393899999999" lon="-1.0805727000000001" elevation="0" data="Windows"/>
+    <POI id="180" type="1" lat="53.946721199999999" lon="-1.0798471000000001" elevation="0" data="final-year-project"/>
+    <POI id="181" type="1" lat="53.955629999999999" lon="-1.0808057" elevation="0" data="Perl64"/>
+    <POI id="182" type="1" lat="53.959006700000003" lon="-1.0815949" elevation="0" data="Program Files"/>
+    <POI id="183" type="1" lat="53.960066099999999" lon="-1.0848537" elevation="0" data="PerfLogs"/>
+    <POI id="184" type="1" lat="53.959387399999997" lon="-1.083852" elevation="0" data="System Volume Information"/>
+    <POI id="185" type="1" lat="53.959344000000002" lon="-1.0821985000000001" elevation="0" data="Python27"/>
+    <POI id="186" type="1" lat="53.9601629" lon="-1.084514" elevation="0" data="ProgramData"/>
+    <POI id="187" type="1" lat="53.959542599999999" lon="-1.0824476000000001" elevation="0" data="Windows"/>
+    <POI id="188" type="1" lat="53.958354399999997" lon="-1.0805239" elevation="0" data="BOOTNXT"/>
+    <POI id="189" type="1" lat="53.959783199999997" lon="-1.0818863999999999" elevation="0" data="swapfile.sys"/>
+    <POI id="190" type="1" lat="53.960339400000002" lon="-1.0843229000000001" elevation="0" data="$Recycle.Bin"/>
+    <POI id="191" type="1" lat="53.960700000000003" lon="-1.0837734999999999" elevation="0" data="Inkscape"/>
+    <POI id="192" type="1" lat="53.962681500000002" lon="-1.0850304" elevation="0" data="Documents and Settings"/>
+    <POI id="193" type="1" lat="53.960779500000001" lon="-1.0811511" elevation="0" data="Setup.log"/>
+    <POI id="194" type="1" lat="53.962555600000002" lon="-1.0809945000000001" elevation="0" data="pagefile.sys"/>
+    <POI id="195" type="1" lat="53.961617400000002" lon="-1.0809053" elevation="0" data="final-year-project"/>
+    <POI id="196" type="1" lat="53.962344399999999" lon="-1.0788386000000001" elevation="0" data="FrameGrabber Logs"/>
+    <POI id="197" type="1" lat="53.962243899999997" lon="-1.080354" elevation="0" data="Windows"/>
+    <POI id="198" type="1" lat="53.962937199999999" lon="-1.0802286000000001" elevation="0" data="Recovery"/>
+    <POI id="199" type="1" lat="53.962013399999996" lon="-1.0836813000000001" elevation="0" data="hiberfil.sys"/>
+    <POI id="200" type="1" lat="53.960197800000003" lon="-1.0773014999999999" elevation="0" data="pagefile.sys"/>
+    <POI id="201" type="1" lat="53.959000099999997" lon="-1.0798444" elevation="0" data="Python27"/>
+    <POI id="202" type="1" lat="53.961135200000001" lon="-1.0784081000000001" elevation="0" data="bootmgr"/>
+    <POI id="203" type="1" lat="53.960457400000003" lon="-1.0772735" elevation="0" data="Temp"/>
+    <POI id="204" type="1" lat="53.960169200000003" lon="-1.0761487000000001" elevation="0" data="Python27"/>
+    <POI id="205" type="1" lat="53.961473499999997" lon="-1.0768986" elevation="0" data="Program Files (x86)"/>
+    <POI id="206" type="1" lat="53.960490499999999" lon="-1.0791512000000001" elevation="0" data="swapfile.sys"/>
+    <POI id="207" type="1" lat="53.961747500000001" lon="-1.0788933999999999" elevation="0" data="Documents and Settings"/>
+    <POI id="208" type="1" lat="53.961983799999999" lon="-1.0793986" elevation="0" data="bootmgr"/>
+    <POI id="209" type="1" lat="53.960594399999998" lon="-1.0764459" elevation="0" data="System Volume Information"/>
+    <POI id="210" type="1" lat="53.958986400000001" lon="-1.0776538" elevation="0" data="Program Files"/>
+    <POI id="211" type="1" lat="53.961083799999997" lon="-1.0857831" elevation="0" data="PerfLogs"/>
+    <POI id="212" type="1" lat="53.914644899999999" lon="-1.1413120000000001" elevation="0" data="$Windows.~WS"/>
+    <POI id="213" type="1" lat="53.963175900000003" lon="-1.0762901" elevation="0" data="bootmgr"/>
+    <POI id="214" type="1" lat="53.965487799999998" lon="-1.0902297000000001" elevation="0" data="ProgramData"/>
+    <POI id="215" type="1" lat="53.956841699999998" lon="-1.0762992" elevation="0" data="pagefile.sys"/>
+    <POI id="216" type="1" lat="53.956201999999998" lon="-1.0770755000000001" elevation="0" data="Users"/>
+    <POI id="217" type="1" lat="53.9571228" lon="-1.0807891000000001" elevation="0" data="Documents and Settings"/>
+    <POI id="218" type="1" lat="53.957032499999997" lon="-1.0813645999999999" elevation="0" data="Temp"/>
+    <POI id="219" type="1" lat="53.956965699999998" lon="-1.0820898999999999" elevation="0" data="hiberfil.sys"/>
+    <POI id="220" type="1" lat="53.958238600000001" lon="-1.0771630000000001" elevation="0" data="pagefile.sys"/>
+    <POI id="221" type="1" lat="53.9523449" lon="-1.0846397999999999" elevation="0" data="Develop"/>
+    <POI id="222" type="1" lat="53.950762300000001" lon="-1.0980429" elevation="0" data="hiberfil.sys"/>
+    <POI id="223" type="1" lat="53.949518500000003" lon="-1.0991525" elevation="0" data="$Windows.~WS"/>
+    <POI id="224" type="1" lat="53.957680500000002" lon="-1.0728234000000001" elevation="0" data="Inkscape"/>
+    <POI id="225" type="1" lat="53.956403000000002" lon="-1.0828103" elevation="0" data="Intel"/>
+    <POI id="226" type="1" lat="53.957882099999999" lon="-1.0714105" elevation="0" data="FrameGrabber Logs"/>
+    <POI id="227" type="1" lat="53.956131499999998" lon="-1.0712405" elevation="0" data="Users"/>
+    <POI id="228" type="1" lat="53.956096100000003" lon="-1.0716123" elevation="0" data="Setup.log"/>
+    <POI id="229" type="1" lat="53.955625300000001" lon="-1.0720086" elevation="0" data="BOOTNXT"/>
+    <POI id="230" type="1" lat="53.957369900000003" lon="-1.0720213999999999" elevation="0" data="os_transfer"/>
+    <POI id="231" type="1" lat="53.9610354" lon="-1.0829758" elevation="0" data="Intel"/>
+    <POI id="232" type="1" lat="53.956685299999997" lon="-1.0712288000000001" elevation="0" data="Intel"/>
+    <POI id="233" type="1" lat="53.9604602" lon="-1.0819236000000001" elevation="0" data="Program Files"/>
+    <POI id="234" type="1" lat="53.9556665" lon="-1.0821343999999999" elevation="0" data="Perl64"/>
+    <POI id="235" type="1" lat="53.956583600000002" lon="-1.0816645" elevation="0" data="Program Files (x86)"/>
+    <POI id="236" type="1" lat="53.959520300000001" lon="-1.0880422999999999" elevation="0" data="Develop"/>
+    <POI id="237" type="1" lat="53.960219799999997" lon="-1.0827169000000001" elevation="0" data="$Windows.~WS"/>
+    <POI id="238" type="1" lat="53.961711100000002" lon="-1.0821886999999999" elevation="0" data="final-year-project"/>
+    <POI id="239" type="1" lat="53.9604918" lon="-1.081974" elevation="0" data="Program Files (x86)"/>
+    <POI id="240" type="1" lat="53.961169599999998" lon="-1.0911397" elevation="0" data="ProgramData"/>
+    <POI id="241" type="1" lat="53.958013399999999" lon="-1.0853889000000001" elevation="0" data="os_transfer"/>
+    <POI id="242" type="1" lat="53.9582421" lon="-1.0877688000000001" elevation="0" data="Inkscape"/>
+    <POI id="243" type="1" lat="53.959413499999997" lon="-1.0869367000000001" elevation="0" data="Inkscape"/>
+    <POI id="244" type="1" lat="53.9595585" lon="-1.0874873" elevation="0" data="PerfLogs"/>
+    <POI id="245" type="1" lat="53.957546999999998" lon="-1.0895496" elevation="0" data="Intel"/>
+    <POI id="246" type="1" lat="53.9575903" lon="-1.0896036" elevation="0" data="MSOCache"/>
+    <POI id="247" type="1" lat="53.956292699999999" lon="-1.0911835000000001" elevation="0" data="hiberfil.sys"/>
+    <POI id="248" type="1" lat="53.9552525" lon="-1.0882569" elevation="0" data="Inkscape"/>
+    <POI id="249" type="1" lat="53.956001200000003" lon="-1.0889408" elevation="0" data="Inkscape"/>
+    <POI id="250" type="1" lat="53.955038999999999" lon="-1.0878524999999999" elevation="0" data="Python27"/>
+    <POI id="251" type="1" lat="53.953394099999997" lon="-1.0844809" elevation="0" data="pagefile.sys"/>
+    <POI id="252" type="1" lat="53.9541538" lon="-1.0861451" elevation="0" data="hiberfil.sys"/>
+    <POI id="253" type="1" lat="53.955598899999998" lon="-1.0855427" elevation="0" data="bootmgr"/>
+    <POI id="254" type="1" lat="53.954594200000003" lon="-1.0870200000000001" elevation="0" data="Intel"/>
+    <POI id="255" type="1" lat="53.9538674" lon="-1.0870848" elevation="0" data="Setup.log"/>
+    <POI id="256" type="1" lat="53.954228999999998" lon="-1.085008" elevation="0" data="BOOTNXT"/>
+    <POI id="257" type="1" lat="53.954297400000002" lon="-1.0843373999999999" elevation="0" data="Users"/>
+    <POI id="258" type="1" lat="53.956178999999999" lon="-1.0863418" elevation="0" data="$Windows.~WS"/>
+    <POI id="259" type="1" lat="53.955852700000001" lon="-1.0868214" elevation="0" data="$Recycle.Bin"/>
+    <POI id="260" type="1" lat="53.933970899999998" lon="-1.0727141" elevation="0" data="MSOCache"/>
+    <POI id="261" type="1" lat="53.955521699999998" lon="-1.0862430999999999" elevation="0" data="Temp"/>
+    <POI id="262" type="1" lat="53.956680499999997" lon="-1.0882217000000001" elevation="0" data="Temp"/>
+    <POI id="263" type="1" lat="53.956393800000001" lon="-1.0867332999999999" elevation="0" data="Program Files (x86)"/>
+    <POI id="264" type="1" lat="53.956393800000001" lon="-1.0867332999999999" elevation="0" data="Documents and Settings"/>
+    <POI id="265" type="1" lat="53.954602700000002" lon="-1.0827443999999999" elevation="0" data="Recovery"/>
+    <POI id="266" type="1" lat="53.953962500000003" lon="-1.0817855999999999" elevation="0" data="ProgramData"/>
+    <POI id="267" type="1" lat="53.9574803" lon="-1.0776241" elevation="0" data="MSOCache"/>
+    <POI id="268" type="1" lat="53.955120200000003" lon="-1.07057" elevation="0" data="PerfLogs"/>
+    <POI id="269" type="1" lat="53.951223200000001" lon="-1.0894093" elevation="0" data="System Volume Information"/>
+    <POI id="270" type="1" lat="53.953024300000003" lon="-1.0985267000000001" elevation="0" data="Intel"/>
+    <POI id="271" type="1" lat="53.950180000000003" lon="-1.0752915999999999" elevation="0" data="FrameGrabber Logs"/>
+    <POI id="272" type="1" lat="53.9538394" lon="-1.0749468" elevation="0" data="Intel"/>
+    <POI id="273" type="1" lat="53.952961600000002" lon="-1.0754862999999999" elevation="0" data="Setup.log"/>
+    <POI id="274" type="1" lat="53.954693599999999" lon="-1.0753044" elevation="0" data="FrameGrabber Logs"/>
+    <POI id="275" type="1" lat="53.954299599999999" lon="-1.0715663" elevation="0" data="Temp"/>
+    <POI id="276" type="1" lat="53.952478599999999" lon="-1.0718158" elevation="0" data="Program Files"/>
+    <POI id="277" type="1" lat="53.952722600000001" lon="-1.0687575" elevation="0" data="swapfile.sys"/>
+    <POI id="278" type="1" lat="53.953255400000003" lon="-1.0702792000000001" elevation="0" data="Users"/>
+    <POI id="279" type="1" lat="53.952394599999998" lon="-1.0702128" elevation="0" data="pagefile.sys"/>
+    <POI id="280" type="1" lat="53.954729499999999" lon="-1.0688002999999999" elevation="0" data="Documents and Settings"/>
+    <POI id="281" type="1" lat="53.965025400000002" lon="-1.0665597" elevation="0" data="Intel"/>
+    <POI id="282" type="1" lat="53.954687200000002" lon="-1.0845156" elevation="0" data="$WINDOWS.~BT"/>
+    <POI id="283" type="1" lat="53.9638177" lon="-1.0871928" elevation="0" data="Windows"/>
+    <POI id="284" type="1" lat="53.963166999999999" lon="-1.0910960999999999" elevation="0" data="MSOCache"/>
+    <POI id="285" type="1" lat="53.961677000000002" lon="-1.0921902000000001" elevation="0" data="$Windows.~WS"/>
+    <POI id="286" type="1" lat="53.961603699999998" lon="-1.0913621" elevation="0" data="bootmgr"/>
+    <POI id="287" type="1" lat="53.962035" lon="-1.0910934000000001" elevation="0" data="Temp"/>
+    <POI id="288" type="1" lat="54.032431500000001" lon="-1.0460388" elevation="0" data="MSOCache"/>
+    <POI id="289" type="1" lat="53.963715299999997" lon="-1.0980961" elevation="0" data="System Volume Information"/>
+    <POI id="290" type="1" lat="53.964533699999997" lon="-1.0905803999999999" elevation="0" data="Users"/>
+    <POI id="291" type="1" lat="53.9618514" lon="-1.0928931" elevation="0" data="$Recycle.Bin"/>
+    <POI id="292" type="1" lat="53.953069900000003" lon="-1.0763421" elevation="0" data="BOOTNXT"/>
+    <POI id="293" type="1" lat="53.963151000000003" lon="-1.091289" elevation="0" data="os_transfer"/>
+    <POI id="294" type="1" lat="53.967535400000003" lon="-1.0874659" elevation="0" data="Users"/>
+    <POI id="295" type="1" lat="53.969543700000003" lon="-1.0872991999999999" elevation="0" data="hiberfil.sys"/>
+    <POI id="296" type="1" lat="53.968065899999999" lon="-1.0889496999999999" elevation="0" data="Python27"/>
+    <POI id="297" type="1" lat="53.962333299999997" lon="-1.0936731" elevation="0" data="Program Files (x86)"/>
+    <POI id="298" type="1" lat="53.962001100000002" lon="-1.0939607" elevation="0" data="FrameGrabber Logs"/>
+    <POI id="299" type="1" lat="53.992856699999997" lon="-1.0713708" elevation="0" data="ProgramData"/>
+    <POI id="300" type="1" lat="53.965455300000002" lon="-1.0910346" elevation="0" data="Program Files (x86)"/>
+    <POI id="301" type="1" lat="53.955601799999997" lon="-1.0760718" elevation="0" data="Intel"/>
+    <POI id="302" type="1" lat="53.964678300000003" lon="-1.0887416999999999" elevation="0" data="BOOTNXT"/>
+    <POI id="303" type="1" lat="53.958630499999998" lon="-1.0758599" elevation="0" data="MSOCache"/>
+    <POI id="304" type="1" lat="53.959285899999998" lon="-1.080031" elevation="0" data="bootmgr"/>
+    <POI id="305" type="1" lat="53.959314900000003" lon="-1.0808738" elevation="0" data="bootmgr"/>
+    <POI id="306" type="1" lat="53.959923400000001" lon="-1.0820114999999999" elevation="0" data="$Windows.~WS"/>
+    <POI id="307" type="1" lat="53.957160899999998" lon="-1.0756157" elevation="0" data="Inkscape"/>
+    <POI id="308" type="1" lat="53.954536500000003" lon="-1.0769545" elevation="0" data="final-year-project"/>
+    <POI id="309" type="1" lat="53.954780200000002" lon="-1.0734831" elevation="0" data="Temp"/>
+    <POI id="310" type="1" lat="53.954654699999999" lon="-1.0724549000000001" elevation="0" data="$WINDOWS.~BT"/>
+    <POI id="311" type="1" lat="53.955016499999999" lon="-1.0751957000000001" elevation="0" data="Inkscape"/>
+    <POI id="312" type="1" lat="53.955760300000001" lon="-1.0736129000000001" elevation="0" data="Develop"/>
+    <POI id="313" type="1" lat="53.9559827" lon="-1.0745671999999999" elevation="0" data="Users"/>
+    <POI id="314" type="1" lat="53.954224400000001" lon="-1.0762788999999999" elevation="0" data="System Volume Information"/>
+    <POI id="315" type="1" lat="53.9551838" lon="-1.0760185" elevation="0" data="$WINDOWS.~BT"/>
+    <POI id="316" type="1" lat="53.956858199999999" lon="-1.0733682" elevation="0" data="Setup.log"/>
+    <POI id="317" type="1" lat="53.956425299999999" lon="-1.0734519" elevation="0" data="pagefile.sys"/>
+    <POI id="318" type="1" lat="53.962340900000001" lon="-1.0662277" elevation="0" data="hiberfil.sys"/>
+    <POI id="319" type="1" lat="53.961228499999997" lon="-1.0681588" elevation="0" data="swapfile.sys"/>
+    <POI id="320" type="1" lat="53.956414000000002" lon="-1.0678458" elevation="0" data="FrameGrabber Logs"/>
+    <POI id="321" type="1" lat="53.961679500000002" lon="-1.0659339000000001" elevation="0" data="os_transfer"/>
+    <POI id="322" type="1" lat="53.962009999999999" lon="-1.0688384" elevation="0" data="ProgramData"/>
+    <POI id="323" type="1" lat="53.963940999999998" lon="-1.0684874" elevation="0" data="Documents and Settings"/>
+    <POI id="324" type="1" lat="53.964437799999999" lon="-1.0663391" elevation="0" data="System Volume Information"/>
+    <POI id="325" type="1" lat="53.962973599999998" lon="-1.0663608" elevation="0" data="Inkscape"/>
+    <POI id="326" type="1" lat="53.9646635" lon="-1.0668215999999999" elevation="0" data="pagefile.sys"/>
+    <POI id="327" type="1" lat="53.964023900000001" lon="-1.0658976" elevation="0" data="$Recycle.Bin"/>
+    <POI id="328" type="1" lat="53.963684200000003" lon="-1.0659343999999999" elevation="0" data="Windows"/>
+    <POI id="329" type="1" lat="53.958997699999998" lon="-1.0648191" elevation="0" data="ProgramData"/>
+    <POI id="330" type="1" lat="53.957817800000001" lon="-1.0663279000000001" elevation="0" data="final-year-project"/>
+    <POI id="331" type="1" lat="53.956150899999997" lon="-1.0667302000000001" elevation="0" data="Recovery"/>
+    <POI id="332" type="1" lat="53.955643899999998" lon="-1.0669488" elevation="0" data="MSOCache"/>
+    <POI id="333" type="1" lat="53.961037900000001" lon="-1.0695298" elevation="0" data="bootmgr"/>
+    <POI id="334" type="1" lat="53.964206099999998" lon="-1.0679000999999999" elevation="0" data="MSOCache"/>
+    <POI id="335" type="1" lat="53.955466800000004" lon="-1.0685686000000001" elevation="0" data="Recovery"/>
+    <POI id="336" type="1" lat="53.9550901" lon="-1.0687108000000001" elevation="0" data="Python27"/>
+    <POI id="337" type="1" lat="53.955307500000004" lon="-1.0661887999999999" elevation="0" data="Temp"/>
+    <POI id="338" type="1" lat="53.955660100000003" lon="-1.066756" elevation="0" data="Recovery"/>
+    <POI id="339" type="1" lat="53.955680899999997" lon="-1.0664937000000001" elevation="0" data="Inkscape"/>
+    <POI id="340" type="1" lat="53.9555121" lon="-1.0657076999999999" elevation="0" data="Documents and Settings"/>
+    <POI id="341" type="1" lat="53.955860100000002" lon="-1.0653869" elevation="0" data="$Recycle.Bin"/>
+    <POI id="342" type="1" lat="53.965029600000001" lon="-1.0677049000000001" elevation="0" data="Program Files"/>
+    <POI id="343" type="1" lat="53.951872700000003" lon="-1.0949568000000001" elevation="0" data="MSOCache"/>
+    <POI id="344" type="1" lat="53.967124699999999" lon="-1.0983578000000001" elevation="0" data="Intel"/>
+    <POI id="345" type="1" lat="53.965042799999999" lon="-1.0850736000000001" elevation="0" data="FrameGrabber Logs"/>
+    <POI id="346" type="1" lat="53.9633945" lon="-1.0863156" elevation="0" data="$Recycle.Bin"/>
+    <POI id="347" type="1" lat="53.965091000000001" lon="-1.0830603999999999" elevation="0" data="final-year-project"/>
+    <POI id="348" type="1" lat="53.9659695" lon="-1.0846753" elevation="0" data="FrameGrabber Logs"/>
+    <POI id="349" type="1" lat="53.964255700000002" lon="-1.0851417000000001" elevation="0" data="swapfile.sys"/>
+    <POI id="350" type="1" lat="53.9610567" lon="-1.1015226" elevation="0" data="bootmgr"/>
+    <POI id="351" type="1" lat="53.956405500000002" lon="-1.1009237999999999" elevation="0" data="$Recycle.Bin"/>
+    <POI id="352" type="1" lat="53.9528502" lon="-1.0671253999999999" elevation="0" data="MSOCache"/>
+    <POI id="353" type="1" lat="53.953926199999998" lon="-1.0675684999999999" elevation="0" data="FrameGrabber Logs"/>
+    <POI id="354" type="1" lat="53.9527158" lon="-1.0666412999999999" elevation="0" data="FrameGrabber Logs"/>
+    <POI id="355" type="1" lat="53.9531566" lon="-1.0692543000000001" elevation="0" data="$WINDOWS.~BT"/>
+    <POI id="356" type="1" lat="53.952376700000002" lon="-1.0725768" elevation="0" data="Inkscape"/>
+    <POI id="357" type="1" lat="53.949011599999999" lon="-1.0741117" elevation="0" data="Windows"/>
+    <POI id="358" type="1" lat="53.949895699999999" lon="-1.0738037" elevation="0" data="pagefile.sys"/>
+    <POI id="359" type="1" lat="53.948298600000001" lon="-1.0740225999999999" elevation="0" data="Windows"/>
+    <POI id="360" type="1" lat="53.951635799999998" lon="-1.070031" elevation="0" data="swapfile.sys"/>
+    <POI id="361" type="1" lat="53.951345099999998" lon="-1.0694945" elevation="0" data="Develop"/>
+    <POI id="362" type="1" lat="53.951591499999999" lon="-1.0693727" elevation="0" data="PerfLogs"/>
+    <POI id="363" type="1" lat="53.950999500000002" lon="-1.0687610999999999" elevation="0" data="$Windows.~WS"/>
+    <POI id="364" type="1" lat="53.952182899999997" lon="-1.067744" elevation="0" data="swapfile.sys"/>
+    <POI id="365" type="1" lat="53.951284200000003" lon="-1.0675786" elevation="0" data="FrameGrabber Recordings"/>
+    <POI id="366" type="1" lat="53.952030899999997" lon="-1.0741141000000001" elevation="0" data="BOOTNXT"/>
+    <POI id="367" type="1" lat="53.952638899999997" lon="-1.0761335999999999" elevation="0" data="Intel"/>
+    <POI id="368" type="1" lat="53.953000799999998" lon="-1.0778890999999999" elevation="0" data="Develop"/>
+    <POI id="369" type="1" lat="53.951635799999998" lon="-1.070031" elevation="0" data="PerfLogs"/>
+    <POI id="370" type="1" lat="53.951346700000002" lon="-1.0735699000000001" elevation="0" data="final-year-project"/>
+    <POI id="371" type="1" lat="53.950908499999997" lon="-1.0728607999999999" elevation="0" data="Develop"/>
+    <POI id="372" type="1" lat="53.950942300000001" lon="-1.0746389999999999" elevation="0" data="pagefile.sys"/>
+    <POI id="373" type="1" lat="53.951537199999997" lon="-1.0764164000000001" elevation="0" data="os_transfer"/>
+    <POI id="374" type="1" lat="53.951777700000001" lon="-1.0775181" elevation="0" data="PerfLogs"/>
+    <POI id="375" type="1" lat="53.946615999999999" lon="-1.0747399" elevation="0" data="Windows"/>
+    <POI id="376" type="1" lat="53.947332699999997" lon="-1.0756836999999999" elevation="0" data="Program Files"/>
+    <POI id="377" type="1" lat="53.947932000000002" lon="-1.0753760999999999" elevation="0" data="Recovery"/>
+    <POI id="378" type="1" lat="53.946933000000001" lon="-1.0759432" elevation="0" data="MSOCache"/>
+    <POI id="379" type="1" lat="53.947078500000003" lon="-1.0759301999999999" elevation="0" data="Setup.log"/>
+    <POI id="380" type="1" lat="53.9489929" lon="-1.0756606" elevation="0" data="Setup.log"/>
+    <POI id="381" type="1" lat="53.949277600000002" lon="-1.0768694999999999" elevation="0" data="FrameGrabber Recordings"/>
+    <POI id="382" type="1" lat="53.950043800000003" lon="-1.0768812000000001" elevation="0" data="Documents and Settings"/>
+    <POI id="383" type="1" lat="53.950898799999997" lon="-1.0776806999999999" elevation="0" data="Setup.log"/>
+    <POI id="384" type="1" lat="53.9504363" lon="-1.0772444999999999" elevation="0" data="System Volume Information"/>
+    <POI id="385" type="1" lat="53.950430500000003" lon="-1.0777165" elevation="0" data="Program Files"/>
+    <POI id="386" type="1" lat="53.960954800000003" lon="-1.0938318" elevation="0" data="Program Files (x86)"/>
+    <POI id="387" type="1" lat="53.9549752" lon="-1.0993252" elevation="0" data="Temp"/>
+    <POI id="388" type="1" lat="53.955408300000002" lon="-1.1067446999999999" elevation="0" data="ProgramData"/>
+    <POI id="389" type="1" lat="53.955929599999997" lon="-1.0993888000000001" elevation="0" data="Program Files (x86)"/>
+    <POI id="390" type="1" lat="53.954362000000003" lon="-1.0979387" elevation="0" data="Users"/>
+    <POI id="391" type="1" lat="53.9538996" lon="-1.0970428999999999" elevation="0" data="Program Files (x86)"/>
+    <POI id="392" type="1" lat="53.954007599999997" lon="-1.096252" elevation="0" data="Develop"/>
+    <POI id="393" type="1" lat="53.953909600000003" lon="-1.0953809000000001" elevation="0" data="PerfLogs"/>
+    <POI id="394" type="1" lat="53.954484299999997" lon="-1.0950047000000001" elevation="0" data="$Windows.~WS"/>
+    <POI id="395" type="1" lat="53.953514200000001" lon="-1.0960179999999999" elevation="0" data="$Recycle.Bin"/>
+    <POI id="396" type="1" lat="53.964495300000003" lon="-1.0930191" elevation="0" data="ProgramData"/>
+    <POI id="397" type="1" lat="53.948881700000001" lon="-1.073078" elevation="0" data="PerfLogs"/>
+    <POI id="398" type="1" lat="53.947773099999999" lon="-1.0687667999999999" elevation="0" data="bootmgr"/>
+    <POI id="399" type="1" lat="53.9481495" lon="-1.0719319" elevation="0" data="Users"/>
+    <POI id="400" type="1" lat="53.954481399999999" lon="-1.0927595000000001" elevation="0" data="hiberfil.sys"/>
+    <POI id="401" type="1" lat="53.953648600000001" lon="-1.0903700999999999" elevation="0" data="MSOCache"/>
+    <POI id="402" type="1" lat="53.953250099999998" lon="-1.0903232" elevation="0" data="MSOCache"/>
+    <POI id="403" type="1" lat="53.954179799999999" lon="-1.0886346" elevation="0" data="final-year-project"/>
+    <POI id="404" type="1" lat="53.963887" lon="-1.0787340999999999" elevation="0" data="$Recycle.Bin"/>
+    <POI id="405" type="1" lat="53.954990799999997" lon="-1.0850469" elevation="0" data="Python27"/>
+    <POI id="406" type="1" lat="53.956911400000003" lon="-1.0841415999999999" elevation="0" data="swapfile.sys"/>
+    <POI id="407" type="1" lat="53.952973499999999" lon="-1.0889150999999999" elevation="0" data="Intel"/>
+    <POI id="408" type="1" lat="53.952738199999999" lon="-1.0883677" elevation="0" data="Setup.log"/>
+    <POI id="409" type="1" lat="53.953607599999998" lon="-1.0873155999999999" elevation="0" data="Temp"/>
+    <POI id="410" type="1" lat="53.951383399999997" lon="-1.0858639999999999" elevation="0" data="$Recycle.Bin"/>
+    <POI id="411" type="1" lat="53.952381199999998" lon="-1.0873595" elevation="0" data="FrameGrabber Logs"/>
+    <POI id="412" type="1" lat="53.951976999999999" lon="-1.0869032000000001" elevation="0" data="Documents and Settings"/>
+    <POI id="413" type="1" lat="53.9523972" lon="-1.08541" elevation="0" data="Perl64"/>
+    <POI id="414" type="1" lat="53.9528745" lon="-1.0859882999999999" elevation="0" data="Perl64"/>
+    <POI id="415" type="1" lat="53.952639900000001" lon="-1.0856703999999999" elevation="0" data="Program Files"/>
+    <POI id="416" type="1" lat="53.9524118" lon="-1.0854322000000001" elevation="0" data="os_transfer"/>
+    <POI id="417" type="1" lat="53.952441" lon="-1.0848100000000001" elevation="0" data="Users"/>
+    <POI id="418" type="1" lat="53.951051300000003" lon="-1.0864391" elevation="0" data="Program Files (x86)"/>
+    <POI id="419" type="1" lat="53.950520900000001" lon="-1.090074" elevation="0" data="FrameGrabber Logs"/>
+    <POI id="420" type="1" lat="53.951580100000001" lon="-1.0895090000000001" elevation="0" data="Program Files"/>
+    <POI id="421" type="1" lat="53.951686500000001" lon="-1.0887724999999999" elevation="0" data="Temp"/>
+    <POI id="422" type="1" lat="53.954126799999997" lon="-1.0933708" elevation="0" data="PerfLogs"/>
+    <POI id="423" type="1" lat="53.9536035" lon="-1.0941288" elevation="0" data="os_transfer"/>
+    <POI id="424" type="1" lat="53.951674300000001" lon="-1.0922453999999999" elevation="0" data="Temp"/>
+    <POI id="425" type="1" lat="53.966101299999998" lon="-1.0746916" elevation="0" data="FrameGrabber Logs"/>
+    <POI id="426" type="1" lat="53.959395399999998" lon="-1.0810111" elevation="0" data="Python27"/>
+    <POI id="427" type="1" lat="53.9591803" lon="-1.0813200000000001" elevation="0" data="bootmgr"/>
+    <POI id="428" type="1" lat="53.955948999999997" lon="-1.0850198" elevation="0" data="Windows"/>
+    <POI id="429" type="1" lat="53.955481499999998" lon="-1.0845564000000001" elevation="0" data="BOOTNXT"/>
+    <POI id="430" type="1" lat="53.951686500000001" lon="-1.0887724999999999" elevation="0" data="hiberfil.sys"/>
+    <POI id="431" type="1" lat="53.949142100000003" lon="-1.0859677000000001" elevation="0" data="ProgramData"/>
+    <POI id="432" type="1" lat="53.949067200000002" lon="-1.0887616" elevation="0" data="BOOTNXT"/>
+    <POI id="433" type="1" lat="53.955253300000003" lon="-1.0755775000000001" elevation="0" data="$WINDOWS.~BT"/>
+    <POI id="434" type="1" lat="53.954244000000003" lon="-1.0914865" elevation="0" data="final-year-project"/>
+    <POI id="435" type="1" lat="53.9490646" lon="-1.0881426000000001" elevation="0" data="$Recycle.Bin"/>
+    <POI id="436" type="1" lat="53.950843399999997" lon="-1.0881862" elevation="0" data="Program Files"/>
+    <POI id="437" type="1" lat="53.950780999999999" lon="-1.0874701" elevation="0" data="FrameGrabber Recordings"/>
+    <POI id="438" type="1" lat="53.949122299999999" lon="-1.0866823000000001" elevation="0" data="FrameGrabber Recordings"/>
+    <POI id="439" type="1" lat="53.948784000000003" lon="-1.0832872" elevation="0" data="Documents and Settings"/>
+    <POI id="440" type="1" lat="53.9483447" lon="-1.0846214000000001" elevation="0" data="swapfile.sys"/>
+    <POI id="441" type="1" lat="53.947704700000003" lon="-1.0837201000000001" elevation="0" data="$Windows.~WS"/>
+    <POI id="442" type="1" lat="53.947188599999997" lon="-1.0838737000000001" elevation="0" data="Program Files (x86)"/>
+    <POI id="443" type="1" lat="53.946866499999999" lon="-1.0857782" elevation="0" data="Windows"/>
+    <POI id="444" type="1" lat="53.944786899999997" lon="-1.0854478999999999" elevation="0" data="PerfLogs"/>
+    <POI id="445" type="1" lat="53.949285199999998" lon="-1.0829865999999999" elevation="0" data="Temp"/>
+    <POI id="446" type="1" lat="53.950679000000001" lon="-1.0834674" elevation="0" data="Documents and Settings"/>
+    <POI id="447" type="1" lat="53.949880399999998" lon="-1.0829533" elevation="0" data="Temp"/>
+    <POI id="448" type="1" lat="53.951309299999998" lon="-1.0850968000000001" elevation="0" data="Documents and Settings"/>
+    <POI id="449" type="1" lat="53.952015400000001" lon="-1.0829924" elevation="0" data="Program Files"/>
+    <POI id="450" type="1" lat="53.953371500000003" lon="-1.0817671" elevation="0" data="BOOTNXT"/>
+    <POI id="451" type="1" lat="53.951888199999999" lon="-1.0813024" elevation="0" data="pagefile.sys"/>
+    <POI id="452" type="1" lat="53.952513799999998" lon="-1.0818061999999999" elevation="0" data="BOOTNXT"/>
+    <POI id="453" type="1" lat="53.951545600000003" lon="-1.0823612" elevation="0" data="$WINDOWS.~BT"/>
+    <POI id="454" type="1" lat="53.951698999999998" lon="-1.0838570000000001" elevation="0" data="Inkscape"/>
+    <POI id="455" type="1" lat="53.949896099999997" lon="-1.0825811000000001" elevation="0" data="System Volume Information"/>
+    <POI id="456" type="1" lat="53.950996500000002" lon="-1.0820259999999999" elevation="0" data="$Recycle.Bin"/>
+    <POI id="457" type="1" lat="53.951052300000001" lon="-1.0825913" elevation="0" data="Python27"/>
+    <POI id="458" type="1" lat="53.952230700000001" lon="-1.0843418" elevation="0" data="Inkscape"/>
+    <POI id="459" type="1" lat="53.952015400000001" lon="-1.0829924" elevation="0" data="Program Files"/>
+    <POI id="460" type="1" lat="53.952548700000001" lon="-1.0828446" elevation="0" data="Perl64"/>
+    <POI id="461" type="1" lat="53.952618399999999" lon="-1.0835718000000001" elevation="0" data="MSOCache"/>
+    <POI id="462" type="1" lat="53.9500533" lon="-1.0797422999999999" elevation="0" data="Python27"/>
+    <POI id="463" type="1" lat="53.948557000000001" lon="-1.0862415000000001" elevation="0" data="$WINDOWS.~BT"/>
+    <POI id="464" type="1" lat="53.947818900000001" lon="-1.0855341999999999" elevation="0" data="MSOCache"/>
+    <POI id="465" type="1" lat="53.946939499999999" lon="-1.0868660000000001" elevation="0" data="Python27"/>
+    <POI id="466" type="1" lat="53.947288700000001" lon="-1.0868936" elevation="0" data="os_transfer"/>
+    <POI id="467" type="1" lat="53.948143999999999" lon="-1.0883299" elevation="0" data="Setup.log"/>
+    <POI id="468" type="1" lat="53.946385499999998" lon="-1.0886334" elevation="0" data="FrameGrabber Logs"/>
+    <POI id="469" type="1" lat="53.948374899999997" lon="-1.0759764000000001" elevation="0" data="Inkscape"/>
+    <POI id="470" type="1" lat="53.948469500000002" lon="-1.077963" elevation="0" data="Users"/>
+    <POI id="471" type="1" lat="53.948164300000002" lon="-1.0786171" elevation="0" data="Recovery"/>
+    <POI id="472" type="1" lat="53.950918299999998" lon="-1.0699749000000001" elevation="0" data="Program Files (x86)"/>
+    <POI id="473" type="1" lat="53.950974000000002" lon="-1.0690284999999999" elevation="0" data="Program Files"/>
+    <POI id="474" type="1" lat="53.955711600000001" lon="-1.0846070000000001" elevation="0" data="FrameGrabber Logs"/>
+    <POI id="475" type="1" lat="53.951805299999997" lon="-1.0805711" elevation="0" data="Inkscape"/>
+    <POI id="476" type="1" lat="53.950316899999997" lon="-1.0962213999999999" elevation="0" data="Program Files"/>
+    <POI id="477" type="1" lat="53.949534" lon="-1.0947047999999999" elevation="0" data="Program Files (x86)"/>
+    <POI id="478" type="1" lat="53.949365" lon="-1.0933729999999999" elevation="0" data="swapfile.sys"/>
+    <POI id="479" type="1" lat="53.947824099999998" lon="-1.0927106" elevation="0" data="$WINDOWS.~BT"/>
+    <POI id="480" type="1" lat="53.9481337" lon="-1.0925864999999999" elevation="0" data="Users"/>
+    <POI id="481" type="1" lat="53.945842800000001" lon="-1.0913425999999999" elevation="0" data="BOOTNXT"/>
+    <POI id="482" type="1" lat="53.949227200000003" lon="-1.0947011" elevation="0" data="BOOTNXT"/>
+    <POI id="483" type="1" lat="53.960325400000002" lon="-1.0804754999999999" elevation="0" data="$WINDOWS.~BT"/>
+    <POI id="484" type="1" lat="53.959762900000001" lon="-1.08046" elevation="0" data="BOOTNXT"/>
+    <POI id="485" type="1" lat="53.957335" lon="-1.0800946" elevation="0" data="PerfLogs"/>
+    <POI id="486" type="1" lat="53.960731199999998" lon="-1.0800276" elevation="0" data="FrameGrabber Logs"/>
+    <POI id="487" type="1" lat="53.962013399999996" lon="-1.0836813000000001" elevation="0" data="Documents and Settings"/>
+    <POI id="488" type="1" lat="53.962684400000001" lon="-1.0845374000000001" elevation="0" data="final-year-project"/>
+    <POI id="489" type="1" lat="53.962451299999998" lon="-1.0815733000000001" elevation="0" data="final-year-project"/>
+    <POI id="490" type="1" lat="53.961891700000002" lon="-1.0793047" elevation="0" data="Windows"/>
+    <POI id="491" type="1" lat="53.9628953" lon="-1.0746382999999999" elevation="0" data="Users"/>
+    <POI id="492" type="1" lat="53.961206199999999" lon="-1.0817497" elevation="0" data="FrameGrabber Recordings"/>
+    <POI id="493" type="1" lat="53.960894000000003" lon="-1.0854864" elevation="0" data="$Recycle.Bin"/>
+    <POI id="494" type="1" lat="53.961755400000001" lon="-1.0830919000000001" elevation="0" data="Documents and Settings"/>
+    <POI id="495" type="1" lat="53.905364300000002" lon="-1.0979198999999999" elevation="0" data="pagefile.sys"/>
+    <POI id="496" type="1" lat="53.961657899999999" lon="-1.0804838999999999" elevation="0" data="final-year-project"/>
+    <POI id="497" type="1" lat="53.962739499999998" lon="-1.0788015" elevation="0" data="swapfile.sys"/>
+    <POI id="498" type="1" lat="53.961831500000002" lon="-1.0812845" elevation="0" data="BOOTNXT"/>
+    <POI id="499" type="1" lat="53.962749899999999" lon="-1.0851161" elevation="0" data="bootmgr"/>
+    <POI id="500" type="1" lat="53.9645832" lon="-1.0821319" elevation="0" data="Temp"/>
+    <POI id="501" type="1" lat="53.955883499999999" lon="-1.0908768" elevation="0" data="Perl64"/>
+    <POI id="502" type="1" lat="53.955821700000001" lon="-1.0801955000000001" elevation="0" data="pagefile.sys"/>
+    <POI id="503" type="1" lat="53.955291799999998" lon="-1.0806473000000001" elevation="0" data="pagefile.sys"/>
+    <POI id="504" type="1" lat="53.955213299999997" lon="-1.0787225" elevation="0" data="bootmgr"/>
+    <POI id="505" type="1" lat="53.9641521" lon="-1.0889230000000001" elevation="0" data="$WINDOWS.~BT"/>
+    <POI id="506" type="1" lat="53.964101700000001" lon="-1.0888126" elevation="0" data="Setup.log"/>
+    <POI id="507" type="1" lat="53.957403200000002" lon="-1.09459" elevation="0" data="System Volume Information"/>
+    <POI id="508" type="1" lat="53.9602814" lon="-1.0933040000000001" elevation="0" data="FrameGrabber Recordings"/>
+    <POI id="509" type="1" lat="53.957481799999996" lon="-1.093372" elevation="0" data="FrameGrabber Recordings"/>
+    <POI id="510" type="1" lat="53.957085499999998" lon="-1.0941056" elevation="0" data="pagefile.sys"/>
+    <POI id="511" type="1" lat="53.973499199999999" lon="-1.0816337" elevation="0" data="Inkscape"/>
+    <POI id="512" type="1" lat="53.960323799999998" lon="-1.0817057999999999" elevation="0" data="os_transfer"/>
+    <POI id="513" type="1" lat="53.959812599999999" lon="-1.0818185" elevation="0" data="Recovery"/>
+    <POI id="514" type="1" lat="53.960599000000002" lon="-1.0816981999999999" elevation="0" data="PerfLogs"/>
+    <POI id="515" type="1" lat="53.962258599999998" lon="-1.0901506999999999" elevation="0" data="Develop"/>
+    <POI id="516" type="1" lat="53.9614373" lon="-1.0926427999999999" elevation="0" data="Perl64"/>
+    <POI id="517" type="1" lat="53.957084899999998" lon="-1.0817551999999999" elevation="0" data="Recovery"/>
+    <POI id="518" type="1" lat="53.960785199999997" lon="-1.0792524999999999" elevation="0" data="bootmgr"/>
+    <POI id="519" type="1" lat="53.9660552" lon="-1.0838026000000001" elevation="0" data="System Volume Information"/>
+    <POI id="520" type="1" lat="53.966017000000001" lon="-1.0838011999999999" elevation="0" data="Program Files"/>
+    <POI id="521" type="1" lat="53.964987999999998" lon="-1.063636" elevation="0" data="Intel"/>
+    <POI id="522" type="1" lat="53.949953600000001" lon="-1.0968515999999999" elevation="0" data="Intel"/>
+    <POI id="523" type="1" lat="53.9472673" lon="-1.0931142" elevation="0" data="Program Files (x86)"/>
+    <POI id="524" type="1" lat="53.947065299999998" lon="-1.0918584" elevation="0" data="Documents and Settings"/>
+    <POI id="525" type="1" lat="53.9464805" lon="-1.0928047000000001" elevation="0" data="Develop"/>
+    <POI id="526" type="1" lat="53.946327599999996" lon="-1.0915136999999999" elevation="0" data="Perl64"/>
+    <POI id="527" type="1" lat="53.953358000000001" lon="-1.0909441" elevation="0" data="Intel"/>
+    <POI id="528" type="1" lat="53.954100599999997" lon="-1.0877102000000001" elevation="0" data="Intel"/>
+    <POI id="529" type="1" lat="53.957349499999999" lon="-1.0844289" elevation="0" data="Temp"/>
+    <POI id="530" type="1" lat="53.958188999999997" lon="-1.0810328" elevation="0" data="BOOTNXT"/>
+    <POI id="531" type="1" lat="53.958320000000001" lon="-1.0829826" elevation="0" data="FrameGrabber Logs"/>
+    <POI id="532" type="1" lat="53.955910500000002" lon="-1.0909036999999999" elevation="0" data="hiberfil.sys"/>
+    <POI id="533" type="1" lat="53.958818899999997" lon="-1.0878285000000001" elevation="0" data="Documents and Settings"/>
+    <POI id="534" type="1" lat="53.9410691" lon="-1.0872092" elevation="0" data="bootmgr"/>
+    <POI id="535" type="1" lat="53.955370600000002" lon="-1.0796422999999999" elevation="0" data="Python27"/>
+    <POI id="536" type="1" lat="53.958187500000001" lon="-1.0741915" elevation="0" data="Develop"/>
+    <POI id="537" type="1" lat="53.952598399999999" lon="-1.0775923000000001" elevation="0" data="ProgramData"/>
+    <POI id="538" type="1" lat="53.943549099999998" lon="-1.0581347999999999" elevation="0" data="BOOTNXT"/>
+    <POI id="539" type="1" lat="53.9612701" lon="-1.0896707999999999" elevation="0" data="Setup.log"/>
+    <POI id="540" type="1" lat="53.961084900000003" lon="-1.0861109" elevation="0" data="Program Files (x86)"/>
+    <POI id="541" type="1" lat="53.961642900000001" lon="-1.0864311" elevation="0" data="final-year-project"/>
+    <POI id="542" type="1" lat="53.9581382" lon="-1.0805521" elevation="0" data="bootmgr"/>
+    <POI id="543" type="1" lat="53.967093300000002" lon="-1.0699236000000001" elevation="0" data="Inkscape"/>
+    <POI id="544" type="1" lat="53.966523799999997" lon="-1.0702575000000001" elevation="0" data="Temp"/>
+    <POI id="545" type="1" lat="53.9651475" lon="-1.0661594999999999" elevation="0" data="$WINDOWS.~BT"/>
+    <POI id="546" type="1" lat="53.9624424" lon="-1.0870976999999999" elevation="0" data="Develop"/>
+    <POI id="547" type="1" lat="53.960784099999998" lon="-1.0867355000000001" elevation="0" data="os_transfer"/>
+    <POI id="548" type="1" lat="53.966389900000003" lon="-1.0535317" elevation="0" data="final-year-project"/>
+    <POI id="549" type="1" lat="53.959758200000003" lon="-1.0887830000000001" elevation="0" data="BOOTNXT"/>
+    <POI id="550" type="1" lat="53.959955899999997" lon="-1.0811189000000001" elevation="0" data="swapfile.sys"/>
+    <POI id="551" type="1" lat="53.9578603" lon="-1.0732957000000001" elevation="0" data="FrameGrabber Recordings"/>
+    <POI id="552" type="1" lat="53.960041799999999" lon="-1.0925149999999999" elevation="0" data="bootmgr"/>
+    <POI id="553" type="1" lat="53.958327099999998" lon="-1.0863117" elevation="0" data="MSOCache"/>
+    <POI id="554" type="1" lat="53.9570018" lon="-1.0871685" elevation="0" data="Program Files"/>
+    <POI id="555" type="1" lat="53.955612500000001" lon="-1.0772408" elevation="0" data="Windows"/>
+    <POI id="556" type="1" lat="53.955368800000002" lon="-1.0760825999999999" elevation="0" data="BOOTNXT"/>
+    <POI id="557" type="1" lat="53.954721900000003" lon="-1.0762141000000001" elevation="0" data="final-year-project"/>
+    <POI id="558" type="1" lat="53.955821100000001" lon="-1.0899875000000001" elevation="0" data="swapfile.sys"/>
+    <POI id="559" type="1" lat="53.962254000000001" lon="-1.0737406" elevation="0" data="Develop"/>
+    <POI id="560" type="1" lat="53.961624399999998" lon="-1.0732089" elevation="0" data="Setup.log"/>
+    <POI id="561" type="1" lat="53.960155499999999" lon="-1.0722825" elevation="0" data="Develop"/>
+    <POI id="562" type="1" lat="53.959767200000002" lon="-1.0762714" elevation="0" data="Inkscape"/>
+    <POI id="563" type="1" lat="53.959444499999996" lon="-1.0780894999999999" elevation="0" data="Python27"/>
+    <POI id="564" type="1" lat="53.965583799999997" lon="-1.0713248" elevation="0" data="pagefile.sys"/>
+    <POI id="565" type="1" lat="53.958463500000001" lon="-1.0722681000000001" elevation="0" data="ProgramData"/>
+    <POI id="566" type="1" lat="53.957492500000001" lon="-1.0738432" elevation="0" data="os_transfer"/>
+    <POI id="567" type="1" lat="53.958180499999997" lon="-1.0754919999999999" elevation="0" data="$Recycle.Bin"/>
+    <POI id="568" type="1" lat="53.958219300000003" lon="-1.0765861000000001" elevation="0" data="Recovery"/>
+    <POI id="569" type="1" lat="53.9616623" lon="-1.0853360000000001" elevation="0" data="$WINDOWS.~BT"/>
+    <POI id="570" type="1" lat="53.961929400000002" lon="-1.0845533999999999" elevation="0" data="Develop"/>
+    <POI id="571" type="1" lat="53.958283899999998" lon="-1.0794235000000001" elevation="0" data="Program Files (x86)"/>
+    <POI id="572" type="1" lat="53.963617399999997" lon="-1.084695" elevation="0" data="Intel"/>
+    <POI id="573" type="1" lat="53.961754800000001" lon="-1.073915" elevation="0" data="Temp"/>
+    <POI id="574" type="1" lat="53.961099099999998" lon="-1.0748917" elevation="0" data="os_transfer"/>
+    <POI id="575" type="1" lat="53.960867800000003" lon="-1.0754518" elevation="0" data="pagefile.sys"/>
+    <POI id="576" type="1" lat="53.961099400000002" lon="-1.0766150000000001" elevation="0" data="$Recycle.Bin"/>
+    <POI id="577" type="1" lat="53.955365499999999" lon="-1.0750903000000001" elevation="0" data="FrameGrabber Logs"/>
+    <POI id="578" type="1" lat="53.962223600000002" lon="-1.0699949" elevation="0" data="Windows"/>
+    <POI id="579" type="1" lat="53.962611699999997" lon="-1.0733528000000001" elevation="0" data="final-year-project"/>
+    <POI id="580" type="1" lat="53.9627379" lon="-1.0720376" elevation="0" data="Develop"/>
+    <POI id="581" type="1" lat="53.960782999999999" lon="-1.076465" elevation="0" data="$Recycle.Bin"/>
+    <POI id="582" type="1" lat="53.9636602" lon="-1.0820155" elevation="0" data="FrameGrabber Recordings"/>
+    <POI id="583" type="1" lat="53.963381499999997" lon="-1.0824069000000001" elevation="0" data="Windows"/>
+    <POI id="584" type="1" lat="53.960372900000003" lon="-1.07779" elevation="0" data="os_transfer"/>
+    <POI id="585" type="1" lat="53.9556203" lon="-1.0760080000000001" elevation="0" data="System Volume Information"/>
+    <POI id="586" type="1" lat="53.955651400000001" lon="-1.0758371" elevation="0" data="Intel"/>
+    <POI id="587" type="1" lat="53.965756399999997" lon="-1.0818832" elevation="0" data="Intel"/>
+    <POI id="588" type="1" lat="53.959684500000002" lon="-1.0959607" elevation="0" data="$Recycle.Bin"/>
+    <POI id="589" type="1" lat="53.957123600000003" lon="-1.0696627999999999" elevation="0" data="Recovery"/>
+    <POI id="590" type="1" lat="53.954022999999999" lon="-1.0699794" elevation="0" data="System Volume Information"/>
+    <POI id="591" type="1" lat="53.954493200000002" lon="-1.0711415" elevation="0" data="final-year-project"/>
+    <POI id="592" type="1" lat="53.956544299999997" lon="-1.0724819000000001" elevation="0" data="Intel"/>
+    <POI id="593" type="1" lat="53.953645999999999" lon="-1.0743830999999999" elevation="0" data="final-year-project"/>
+    <POI id="594" type="1" lat="53.954848200000001" lon="-1.0781175000000001" elevation="0" data="Setup.log"/>
+    <POI id="595" type="1" lat="53.958001600000003" lon="-1.0697524" elevation="0" data="Users"/>
+    <POI id="596" type="1" lat="53.959109900000001" lon="-1.0794606" elevation="0" data="Intel"/>
+    <POI id="597" type="1" lat="53.965161600000002" lon="-1.0826703" elevation="0" data="Inkscape"/>
+    <POI id="598" type="1" lat="53.965102600000002" lon="-1.0825312" elevation="0" data="Program Files (x86)"/>
+    <POI id="599" type="1" lat="53.965865399999998" lon="-1.0812577000000001" elevation="0" data="PerfLogs"/>
+    <POI id="600" type="1" lat="53.9660595" lon="-1.0829203999999999" elevation="0" data="Python27"/>
+    <POI id="601" type="1" lat="53.955902000000002" lon="-1.0767609" elevation="0" data="Inkscape"/>
+    <POI id="602" type="1" lat="53.956758000000001" lon="-1.0761433" elevation="0" data="Recovery"/>
+    <POI id="603" type="1" lat="53.956167200000003" lon="-1.0800757999999999" elevation="0" data="Setup.log"/>
+    <POI id="604" type="1" lat="53.953833600000003" lon="-1.0793375000000001" elevation="0" data="PerfLogs"/>
+    <POI id="605" type="1" lat="53.964221500000001" lon="-1.0684712999999999" elevation="0" data="Program Files (x86)"/>
+    <POI id="606" type="1" lat="53.964326" lon="-1.0675954999999999" elevation="0" data="Program Files (x86)"/>
+    <POI id="607" type="1" lat="53.958545299999997" lon="-1.0797034000000001" elevation="0" data="$WINDOWS.~BT"/>
+    <POI id="608" type="1" lat="53.960065200000003" lon="-1.0799456999999999" elevation="0" data="swapfile.sys"/>
+    <POI id="609" type="1" lat="53.958887599999997" lon="-1.0919753999999999" elevation="0" data="Windows"/>
+    <POI id="610" type="1" lat="53.9548074" lon="-1.0926868999999999" elevation="0" data="swapfile.sys"/>
+    <POI id="611" type="1" lat="53.956222799999999" lon="-1.0931390999999999" elevation="0" data="Temp"/>
+    <POI id="612" type="1" lat="53.955055000000002" lon="-1.0944153000000001" elevation="0" data="Documents and Settings"/>
+    <POI id="613" type="1" lat="53.954682499999997" lon="-1.0948918999999999" elevation="0" data="Temp"/>
+    <POI id="614" type="1" lat="53.959731400000003" lon="-1.0942341" elevation="0" data="pagefile.sys"/>
+    <POI id="615" type="1" lat="53.946584299999998" lon="-1.0729363000000001" elevation="0" data="BOOTNXT"/>
+    <POI id="616" type="1" lat="53.959619699999998" lon="-1.0896097" elevation="0" data="Python27"/>
+    <POI id="617" type="1" lat="53.963250000000002" lon="-1.0812204000000001" elevation="0" data="$WINDOWS.~BT"/>
+    <POI id="618" type="1" lat="53.960888500000003" lon="-1.0722419000000001" elevation="0" data="Setup.log"/>
+    <POI id="619" type="1" lat="53.957119599999999" lon="-1.0939749000000001" elevation="0" data="Inkscape"/>
+    <POI id="620" type="1" lat="53.955970999999998" lon="-1.0959380000000001" elevation="0" data="ProgramData"/>
+    <POI id="621" type="1" lat="53.9580074" lon="-1.0936659" elevation="0" data="bootmgr"/>
+    <POI id="622" type="1" lat="53.959586799999997" lon="-1.0937673000000001" elevation="0" data="PerfLogs"/>
+    <POI id="623" type="1" lat="53.958696000000003" lon="-1.0933885999999999" elevation="0" data="Temp"/>
+    <POI id="624" type="1" lat="53.957481799999996" lon="-1.093372" elevation="0" data="$WINDOWS.~BT"/>
+    <POI id="625" type="1" lat="53.959905599999999" lon="-1.0930838" elevation="0" data="hiberfil.sys"/>
+    <POI id="626" type="1" lat="53.9529523" lon="-1.0760733" elevation="0" data="Develop"/>
+    <POI id="627" type="1" lat="53.951968000000001" lon="-1.0761792999999999" elevation="0" data="Develop"/>
+    <POI id="628" type="1" lat="53.9517369" lon="-1.0734613" elevation="0" data="Recovery"/>
+    <POI id="629" type="1" lat="53.951673300000003" lon="-1.0756394" elevation="0" data="Python27"/>
+    <POI id="630" type="1" lat="53.951537199999997" lon="-1.0744623" elevation="0" data="Intel"/>
+    <POI id="631" type="1" lat="53.954387099999998" lon="-1.0768762999999999" elevation="0" data="$Recycle.Bin"/>
+    <POI id="632" type="1" lat="53.951688599999997" lon="-1.0742400999999999" elevation="0" data="Windows"/>
+    <POI id="633" type="1" lat="53.960388999999999" lon="-1.0770333999999999" elevation="0" data="Documents and Settings"/>
+    <POI id="634" type="1" lat="53.956561999999998" lon="-1.0590719" elevation="0" data="Temp"/>
+    <POI id="635" type="1" lat="53.949162399999999" lon="-1.0893653999999999" elevation="0" data="Program Files (x86)"/>
+    <POI id="636" type="1" lat="53.948350599999998" lon="-1.0905499999999999" elevation="0" data="Windows"/>
+    <POI id="637" type="1" lat="53.948096" lon="-1.0911979999999999" elevation="0" data="Temp"/>
+    <POI id="638" type="1" lat="53.948423300000002" lon="-1.0917570000000001" elevation="0" data="Inkscape"/>
+    <POI id="639" type="1" lat="53.951498700000002" lon="-1.092333" elevation="0" data="PerfLogs"/>
+    <POI id="640" type="1" lat="53.952745800000002" lon="-1.0664727000000001" elevation="0" data="$Windows.~WS"/>
+    <POI id="641" type="1" lat="53.960337000000003" lon="-1.0910985" elevation="0" data="Inkscape"/>
+    <POI id="642" type="1" lat="53.961848000000003" lon="-1.0878831" elevation="0" data="ProgramData"/>
+    <POI id="643" type="1" lat="53.963919799999999" lon="-1.0711917" elevation="0" data="swapfile.sys"/>
+    <POI id="644" type="1" lat="53.951566100000001" lon="-1.0735555999999999" elevation="0" data="Documents and Settings"/>
+    <POI id="645" type="1" lat="53.963651200000001" lon="-1.0642407" elevation="0" data="BOOTNXT"/>
+    <POI id="646" type="1" lat="53.961655100000002" lon="-1.0668626999999999" elevation="0" data="Inkscape"/>
+    <POI id="647" type="1" lat="53.964995299999998" lon="-1.0753165" elevation="0" data="FrameGrabber Recordings"/>
+    <POI id="648" type="1" lat="53.9596923" lon="-1.0920283" elevation="0" data="ProgramData"/>
+    <POI id="649" type="1" lat="53.928370000000001" lon="-1.0881928999999999" elevation="0" data="hiberfil.sys"/>
+    <POI id="650" type="1" lat="53.965317200000001" lon="-1.0979193" elevation="0" data="Program Files"/>
+    <POI id="651" type="1" lat="53.949977699999998" lon="-1.0707228" elevation="0" data="Documents and Settings"/>
+    <POI id="652" type="1" lat="53.969043200000002" lon="-1.0575243000000001" elevation="0" data="bootmgr"/>
+    <POI id="653" type="1" lat="53.950192000000001" lon="-1.0723706" elevation="0" data="Program Files (x86)"/>
+    <POI id="654" type="1" lat="53.950555299999998" lon="-1.0722815999999999" elevation="0" data="System Volume Information"/>
+    <POI id="655" type="1" lat="53.949036900000003" lon="-1.0675307999999999" elevation="0" data="Python27"/>
+    <POI id="656" type="1" lat="53.954200800000002" lon="-1.0681457999999999" elevation="0" data="ProgramData"/>
+    <POI id="657" type="1" lat="53.950753800000001" lon="-1.0641909000000001" elevation="0" data="$Recycle.Bin"/>
+    <POI id="658" type="1" lat="53.951837300000001" lon="-1.0654231999999999" elevation="0" data="os_transfer"/>
+    <POI id="659" type="1" lat="53.946848099999997" lon="-1.0731313" elevation="0" data="Users"/>
+    <POI id="660" type="1" lat="53.952037400000002" lon="-1.071321" elevation="0" data="Program Files (x86)"/>
+    <POI id="661" type="1" lat="53.9507452" lon="-1.0665945999999999" elevation="0" data="Documents and Settings"/>
+    <POI id="662" type="1" lat="53.9517965" lon="-1.0670994" elevation="0" data="Recovery"/>
+    <POI id="663" type="1" lat="53.951250199999997" lon="-1.0720997999999999" elevation="0" data="Perl64"/>
+    <POI id="664" type="1" lat="53.948508500000003" lon="-1.0597771" elevation="0" data="hiberfil.sys"/>
+    <POI id="665" type="1" lat="53.9509805" lon="-1.0794319999999999" elevation="0" data="Users"/>
+    <POI id="666" type="1" lat="53.947246499999999" lon="-1.0737623000000001" elevation="0" data="MSOCache"/>
+    <POI id="667" type="1" lat="53.948498000000001" lon="-1.0784334" elevation="0" data="Program Files (x86)"/>
+    <POI id="668" type="1" lat="53.947068700000003" lon="-1.0753592000000001" elevation="0" data="Perl64"/>
+    <POI id="669" type="1" lat="53.947341899999998" lon="-1.0768413999999999" elevation="0" data="$Windows.~WS"/>
+    <POI id="670" type="1" lat="53.951120899999999" lon="-1.0730392" elevation="0" data="Program Files (x86)"/>
+    <POI id="671" type="1" lat="53.953982500000002" lon="-1.0753029999999999" elevation="0" data="FrameGrabber Logs"/>
+    <POI id="672" type="1" lat="53.9579162" lon="-1.0714309" elevation="0" data="Recovery"/>
+    <POI id="673" type="1" lat="53.964514700000002" lon="-1.0826768" elevation="0" data="bootmgr"/>
+    <POI id="674" type="1" lat="53.9671412" lon="-1.0857985000000001" elevation="0" data="MSOCache"/>
+    <POI id="675" type="1" lat="53.963535800000002" lon="-1.0788477999999999" elevation="0" data="pagefile.sys"/>
+    <POI id="676" type="1" lat="53.958451199999999" lon="-1.0912407" elevation="0" data="BOOTNXT"/>
+    <POI id="677" type="1" lat="53.956068899999998" lon="-1.0921878" elevation="0" data="BOOTNXT"/>
+    <POI id="678" type="1" lat="53.955462400000002" lon="-1.0684308" elevation="0" data="ProgramData"/>
+    <POI id="679" type="1" lat="53.955043400000001" lon="-1.0678780000000001" elevation="0" data="Users"/>
+    <POI id="680" type="1" lat="53.955874600000001" lon="-1.067261" elevation="0" data="hiberfil.sys"/>
+    <POI id="681" type="1" lat="53.955251099999998" lon="-1.0674808" elevation="0" data="final-year-project"/>
+    <POI id="682" type="1" lat="53.966775200000001" lon="-1.0968367000000001" elevation="0" data="Temp"/>
+    <POI id="683" type="1" lat="53.964704900000001" lon="-1.0880702" elevation="0" data="Intel"/>
+    <POI id="684" type="1" lat="53.9621152" lon="-1.0876239999999999" elevation="0" data="Develop"/>
+    <POI id="685" type="1" lat="53.960547099999999" lon="-1.0870420000000001" elevation="0" data="Setup.log"/>
+    <POI id="686" type="1" lat="53.9625907" lon="-1.0872997" elevation="0" data="Perl64"/>
+    <POI id="687" type="1" lat="53.951582000000002" lon="-1.0781776000000001" elevation="0" data="$WINDOWS.~BT"/>
+    <POI id="688" type="1" lat="53.955081999999997" lon="-1.0842122000000001" elevation="0" data="BOOTNXT"/>
+    <POI id="689" type="1" lat="53.965094200000003" lon="-1.0907876000000001" elevation="0" data="Program Files"/>
+    <POI id="690" type="1" lat="53.9553662" lon="-1.0852664999999999" elevation="0" data="Program Files (x86)"/>
+    <POI id="691" type="1" lat="53.950558899999997" lon="-1.0723294000000001" elevation="0" data="Program Files"/>
+    <POI id="692" type="1" lat="53.954377000000001" lon="-1.0776463999999999" elevation="0" data="System Volume Information"/>
+    <POI id="693" type="1" lat="53.950539900000003" lon="-1.0681221999999999" elevation="0" data="BOOTNXT"/>
+    <POI id="694" type="1" lat="53.958467599999999" lon="-1.0852983" elevation="0" data="PerfLogs"/>
+    <POI id="695" type="1" lat="53.956961399999997" lon="-1.0822673" elevation="0" data="ProgramData"/>
+    <POI id="696" type="1" lat="53.963149600000001" lon="-1.0884476000000001" elevation="0" data="Temp"/>
+    <POI id="697" type="1" lat="53.958399999999997" lon="-1.0733760000000001" elevation="0" data="System Volume Information"/>
+    <POI id="698" type="1" lat="53.956554099999998" lon="-1.0931318999999999" elevation="0" data="hiberfil.sys"/>
+    <POI id="699" type="1" lat="53.962022699999999" lon="-1.0800173" elevation="0" data="bootmgr"/>
+    <POI id="700" type="1" lat="53.951613999999999" lon="-1.0983493" elevation="0" data="FrameGrabber Recordings"/>
+    <POI id="701" type="1" lat="53.951689600000002" lon="-1.0928929999999999" elevation="0" data="PerfLogs"/>
+    <POI id="702" type="1" lat="53.950293700000003" lon="-1.0753033000000001" elevation="0" data="Inkscape"/>
+    <POI id="703" type="1" lat="53.962860200000001" lon="-1.0864290999999999" elevation="0" data="ProgramData"/>
+    <POI id="704" type="1" lat="53.9600121" lon="-1.0848068" elevation="0" data="Setup.log"/>
+    <POI id="705" type="1" lat="53.966134799999999" lon="-1.0811331" elevation="0" data="Intel"/>
+    <POI id="706" type="1" lat="53.965964800000002" lon="-1.0829382000000001" elevation="0" data="$WINDOWS.~BT"/>
+    <POI id="707" type="1" lat="53.965759800000001" lon="-1.0795707999999999" elevation="0" data="FrameGrabber Recordings"/>
+    <POI id="708" type="1" lat="53.964323999999998" lon="-1.0779936000000001" elevation="0" data="Windows"/>
+    <POI id="709" type="1" lat="53.952900300000003" lon="-1.0896891" elevation="0" data="FrameGrabber Recordings"/>
+    <POI id="710" type="1" lat="53.948506500000001" lon="-1.0976298" elevation="0" data="MSOCache"/>
+    <POI id="711" type="1" lat="53.949473699999999" lon="-1.0989169000000001" elevation="0" data="FrameGrabber Logs"/>
+    <POI id="712" type="1" lat="53.950999500000002" lon="-1.0687610999999999" elevation="0" data="PerfLogs"/>
+    <POI id="713" type="1" lat="53.946602900000002" lon="-1.079377" elevation="0" data="Develop"/>
+    <POI id="714" type="1" lat="53.958678900000002" lon="-1.0823522999999999" elevation="0" data="hiberfil.sys"/>
+    <POI id="715" type="1" lat="53.955083399999999" lon="-1.0815887" elevation="0" data="hiberfil.sys"/>
+    <POI id="716" type="1" lat="53.960312399999999" lon="-1.0762830000000001" elevation="0" data="Recovery"/>
+    <POI id="717" type="1" lat="53.960857900000001" lon="-1.0785591000000001" elevation="0" data="Windows"/>
+    <POI id="718" type="1" lat="53.961608900000002" lon="-1.0790660999999999" elevation="0" data="Recovery"/>
+    <POI id="719" type="1" lat="53.960287299999997" lon="-1.0841703" elevation="0" data="Develop"/>
+    <POI id="720" type="1" lat="53.955315400000003" lon="-1.0884161999999999" elevation="0" data="os_transfer"/>
+    <POI id="721" type="1" lat="53.956176900000003" lon="-1.0899163000000001" elevation="0" data="pagefile.sys"/>
+    <POI id="722" type="1" lat="53.9560903" lon="-1.0889222999999999" elevation="0" data="Perl64"/>
+    <POI id="723" type="1" lat="53.956397500000001" lon="-1.0892896000000001" elevation="0" data="Program Files (x86)"/>
+    <POI id="724" type="1" lat="53.955938000000003" lon="-1.0871838" elevation="0" data="Intel"/>
+    <POI id="725" type="1" lat="53.953844500000002" lon="-1.0870257000000001" elevation="0" data="Temp"/>
+    <POI id="726" type="1" lat="53.9653305" lon="-1.0791645000000001" elevation="0" data="Python27"/>
+    <POI id="727" type="1" lat="53.956109599999998" lon="-1.0702738999999999" elevation="0" data="System Volume Information"/>
+    <POI id="728" type="1" lat="53.965467099999998" lon="-1.0806005000000001" elevation="0" data="PerfLogs"/>
+    <POI id="729" type="1" lat="53.965201899999997" lon="-1.0792557" elevation="0" data="pagefile.sys"/>
+    <POI id="730" type="1" lat="53.956458300000001" lon="-1.0704753" elevation="0" data="os_transfer"/>
+    <POI id="731" type="1" lat="53.986695599999997" lon="-1.0481209" elevation="0" data="os_transfer"/>
+    <POI id="732" type="1" lat="53.959084400000002" lon="-1.0712193000000001" elevation="0" data="$Windows.~WS"/>
+    <POI id="733" type="1" lat="53.9522738" lon="-1.0740221000000001" elevation="0" data="Setup.log"/>
+    <POI id="734" type="1" lat="53.959256400000001" lon="-1.0755254999999999" elevation="0" data="Intel"/>
+    <POI id="735" type="1" lat="53.951422100000002" lon="-1.0825921999999999" elevation="0" data="final-year-project"/>
+    <POI id="736" type="1" lat="53.956751599999997" lon="-1.0802141000000001" elevation="0" data="$Windows.~WS"/>
+    <POI id="737" type="1" lat="53.956629399999997" lon="-1.0798616999999999" elevation="0" data="Python27"/>
+    <POI id="738" type="1" lat="53.955969500000002" lon="-1.0814086000000001" elevation="0" data="hiberfil.sys"/>
+    <POI id="739" type="1" lat="53.954512100000002" lon="-1.0685868999999999" elevation="0" data="Program Files"/>
+    <POI id="740" type="1" lat="53.953689599999997" lon="-1.0687390000000001" elevation="0" data="MSOCache"/>
+    <POI id="741" type="1" lat="53.964184299999999" lon="-1.0883631" elevation="0" data="$WINDOWS.~BT"/>
+    <POI id="742" type="1" lat="53.958694299999998" lon="-1.0835227999999999" elevation="0" data="pagefile.sys"/>
+    <POI id="743" type="1" lat="53.957804500000002" lon="-1.0827793999999999" elevation="0" data="swapfile.sys"/>
+    <POI id="744" type="1" lat="53.959386600000002" lon="-1.0787731" elevation="0" data="Documents and Settings"/>
+    <POI id="745" type="1" lat="53.962942400000003" lon="-1.0814174999999999" elevation="0" data="Inkscape"/>
+    <POI id="746" type="1" lat="53.955713299999999" lon="-1.0820112" elevation="0" data="bootmgr"/>
+    <POI id="747" type="1" lat="53.952052600000002" lon="-1.0964592" elevation="0" data="FrameGrabber Recordings"/>
+    <POI id="748" type="1" lat="53.954130399999997" lon="-1.0866777999999999" elevation="0" data="swapfile.sys"/>
+    <POI id="749" type="1" lat="53.964430299999997" lon="-1.0778002" elevation="0" data="Program Files"/>
+    <POI id="750" type="1" lat="53.960015200000001" lon="-1.0747907999999999" elevation="0" data="Develop"/>
+    <POI id="751" type="1" lat="53.956489900000001" lon="-1.0850835999999999" elevation="0" data="Program Files (x86)"/>
+    <POI id="752" type="1" lat="53.954083799999999" lon="-1.0760228000000001" elevation="0" data="os_transfer"/>
+    <POI id="753" type="1" lat="53.964965200000002" lon="-1.0743708000000001" elevation="0" data="bootmgr"/>
+    <POI id="754" type="1" lat="53.966402000000002" lon="-1.0819087000000001" elevation="0" data="Documents and Settings"/>
+    <POI id="755" type="1" lat="53.947642799999997" lon="-1.0761962" elevation="0" data="Inkscape"/>
+    <POI id="756" type="1" lat="53.956294200000002" lon="-1.0773649000000001" elevation="0" data="Develop"/>
+    <POI id="757" type="1" lat="53.963025299999998" lon="-1.0867792000000001" elevation="0" data="Windows"/>
+    <POI id="758" type="1" lat="53.955120200000003" lon="-1.068832" elevation="0" data="BOOTNXT"/>
+    <POI id="759" type="1" lat="53.956104000000003" lon="-1.0691470999999999" elevation="0" data="Inkscape"/>
+    <POI id="760" type="1" lat="53.950700900000001" lon="-1.0930206" elevation="0" data="$Recycle.Bin"/>
+    <POI id="761" type="1" lat="53.954109500000001" lon="-1.1000943999999999" elevation="0" data="Documents and Settings"/>
+    <POI id="762" type="1" lat="53.958908800000003" lon="-1.0760276" elevation="0" data="Python27"/>
+    <POI id="763" type="1" lat="53.965307199999998" lon="-1.0779684" elevation="0" data="Documents and Settings"/>
+    <POI id="764" type="1" lat="53.9628108" lon="-1.0703221999999999" elevation="0" data="ProgramData"/>
+    <POI id="765" type="1" lat="53.896564300000001" lon="-0.96124270000000001" elevation="0" data="Develop"/>
+    <POI id="766" type="1" lat="53.956330000000001" lon="-1.0732923000000001" elevation="0" data="Python27"/>
+    <POI id="767" type="1" lat="53.966571899999998" lon="-1.0745129" elevation="0" data="FrameGrabber Logs"/>
+    <POI id="768" type="1" lat="53.963192200000002" lon="-1.0879585000000001" elevation="0" data="os_transfer"/>
+    <POI id="769" type="1" lat="53.957435500000003" lon="-1.0866676" elevation="0" data="PerfLogs"/>
+    <POI id="770" type="1" lat="53.952529800000001" lon="-1.0958213000000001" elevation="0" data="Develop"/>
+    <POI id="771" type="1" lat="53.951058000000003" lon="-1.0819546" elevation="0" data="Users"/>
+    <POI id="772" type="1" lat="53.953999400000001" lon="-1.0935553" elevation="0" data="PerfLogs"/>
+    <POI id="773" type="1" lat="53.947617600000001" lon="-1.0745571" elevation="0" data="Setup.log"/>
+    <POI id="774" type="1" lat="53.9500685" lon="-1.0746427000000001" elevation="0" data="Recovery"/>
+    <POI id="775" type="1" lat="53.949058200000003" lon="-1.0997338000000001" elevation="0" data="$Recycle.Bin"/>
+    <POI id="776" type="1" lat="53.956324600000002" lon="-1.0732626999999999" elevation="0" data="final-year-project"/>
+    <POI id="777" type="1" lat="53.964245599999998" lon="-1.0842400000000001" elevation="0" data="MSOCache"/>
+    <POI id="778" type="1" lat="53.963970199999999" lon="-1.0846171" elevation="0" data="swapfile.sys"/>
+    <POI id="779" type="1" lat="53.964095100000002" lon="-1.0859554" elevation="0" data="System Volume Information"/>
+    <POI id="780" type="1" lat="53.964393700000002" lon="-1.0846723" elevation="0" data="final-year-project"/>
+    <POI id="781" type="1" lat="53.9568212" lon="-1.0831" elevation="0" data="$Windows.~WS"/>
+    <POI id="782" type="1" lat="53.966155700000002" lon="-1.0750120999999999" elevation="0" data="swapfile.sys"/>
+    <POI id="783" type="1" lat="53.949666999999998" lon="-1.0747485999999999" elevation="0" data="System Volume Information"/>
+    <POI id="784" type="1" lat="53.952404399999999" lon="-1.0715517000000001" elevation="0" data="$WINDOWS.~BT"/>
+    <POI id="785" type="1" lat="53.952264800000002" lon="-1.0716493" elevation="0" data="Temp"/>
+    <POI id="786" type="1" lat="53.956599400000002" lon="-1.0925556000000001" elevation="0" data="Inkscape"/>
+    <POI id="787" type="1" lat="53.9532156" lon="-1.0844324999999999" elevation="0" data="FrameGrabber Logs"/>
+    <POI id="788" type="1" lat="53.961308899999999" lon="-1.0870242999999999" elevation="0" data="Users"/>
+    <POI id="789" type="1" lat="53.962905300000003" lon="-1.0856170999999999" elevation="0" data="Python27"/>
+    <POI id="790" type="1" lat="53.961357300000003" lon="-1.0748058" elevation="0" data="Recovery"/>
+    <POI id="791" type="1" lat="53.961872700000001" lon="-1.0768158999999999" elevation="0" data="Setup.log"/>
+    <POI id="792" type="1" lat="53.961196200000003" lon="-1.0761008000000001" elevation="0" data="FrameGrabber Recordings"/>
+    <POI id="793" type="1" lat="53.954259100000002" lon="-1.0870261999999999" elevation="0" data="Intel"/>
+    <POI id="794" type="1" lat="53.961801000000001" lon="-1.0863297999999999" elevation="0" data="$WINDOWS.~BT"/>
+    <POI id="795" type="1" lat="53.9522586" lon="-1.0757106000000001" elevation="0" data="Python27"/>
+    <POI id="796" type="1" lat="53.962698899999999" lon="-1.0817756000000001" elevation="0" data="Documents and Settings"/>
+    <POI id="797" type="1" lat="53.959720099999998" lon="-1.0830666" elevation="0" data="$Windows.~WS"/>
+    <POI id="798" type="1" lat="53.959578" lon="-1.05714" elevation="0" data="BOOTNXT"/>
+    <POI id="799" type="1" lat="53.962707399999999" lon="-1.0828335" elevation="0" data="final-year-project"/>
+    <POI id="800" type="1" lat="53.956725800000001" lon="-1.0884647000000001" elevation="0" data="$Recycle.Bin"/>
+    <POI id="801" type="1" lat="53.951285599999999" lon="-1.0815907" elevation="0" data="Develop"/>
+    <POI id="802" type="1" lat="53.956782699999998" lon="-1.0735058" elevation="0" data="Program Files"/>
+    <POI id="803" type="1" lat="53.9569221" lon="-1.0754558999999999" elevation="0" data="pagefile.sys"/>
+    <POI id="804" type="1" lat="53.956222099999998" lon="-1.0725161999999999" elevation="0" data="final-year-project"/>
+    <POI id="805" type="1" lat="53.957340100000003" lon="-1.0772699999999999" elevation="0" data="Windows"/>
+    <POI id="806" type="1" lat="53.958036399999997" lon="-1.0783142999999999" elevation="0" data="final-year-project"/>
+    <POI id="807" type="1" lat="53.957008799999997" lon="-1.0769753" elevation="0" data="BOOTNXT"/>
+    <POI id="808" type="1" lat="53.959923400000001" lon="-1.0820114999999999" elevation="0" data="Program Files"/>
+    <POI id="809" type="1" lat="53.959110600000002" lon="-1.0837767" elevation="0" data="ProgramData"/>
+    <POI id="810" type="1" lat="53.953666599999998" lon="-1.0976975" elevation="0" data="Program Files (x86)"/>
+    <POI id="811" type="1" lat="53.9592776" lon="-1.0845426" elevation="0" data="Inkscape"/>
+    <POI id="812" type="1" lat="53.960793299999999" lon="-1.0779601000000001" elevation="0" data="$Recycle.Bin"/>
+    <POI id="813" type="1" lat="53.962142700000001" lon="-1.0784927" elevation="0" data="swapfile.sys"/>
+    <POI id="814" type="1" lat="53.956424599999998" lon="-1.0742628000000001" elevation="0" data="PerfLogs"/>
+    <POI id="815" type="1" lat="53.959504600000002" lon="-1.0732988999999999" elevation="0" data="BOOTNXT"/>
+    <POI id="816" type="1" lat="53.959147899999998" lon="-1.0741988" elevation="0" data="Develop"/>
+    <POI id="817" type="1" lat="53.959663900000002" lon="-1.0746837" elevation="0" data="Documents and Settings"/>
+    <POI id="818" type="1" lat="53.958877399999999" lon="-1.0870902" elevation="0" data="$Recycle.Bin"/>
+    <POI id="819" type="1" lat="53.954857599999997" lon="-1.0687871" elevation="0" data="ProgramData"/>
+    <POI id="820" type="1" lat="53.954745199999998" lon="-1.0678957" elevation="0" data="Python27"/>
+    <POI id="821" type="1" lat="53.958792099999997" lon="-1.0888637000000001" elevation="0" data="Perl64"/>
+    <POI id="822" type="1" lat="53.963489699999997" lon="-1.0735923999999999" elevation="0" data="os_transfer"/>
+    <POI id="823" type="1" lat="53.958020400000002" lon="-1.0872732000000001" elevation="0" data="Intel"/>
+    <POI id="824" type="1" lat="53.948969499999997" lon="-1.0741023000000001" elevation="0" data="Inkscape"/>
+    <POI id="825" type="1" lat="53.953467799999999" lon="-1.0708800000000001" elevation="0" data="PerfLogs"/>
+    <POI id="826" type="1" lat="53.946829399999999" lon="-1.0792128000000001" elevation="0" data="FrameGrabber Logs"/>
+    <POI id="827" type="1" lat="53.951153699999999" lon="-1.1001529999999999" elevation="0" data="FrameGrabber Recordings"/>
+    <POI id="828" type="1" lat="53.952417799999999" lon="-1.1009062000000001" elevation="0" data="Inkscape"/>
+    <POI id="829" type="1" lat="53.951008100000003" lon="-1.0980262999999999" elevation="0" data="Users"/>
+    <POI id="830" type="1" lat="53.954860799999999" lon="-1.0936520999999999" elevation="0" data="Python27"/>
+    <POI id="831" type="1" lat="53.959187999999997" lon="-1.0668415" elevation="0" data="os_transfer"/>
+    <POI id="832" type="1" lat="53.957321899999997" lon="-1.0678304999999999" elevation="0" data="MSOCache"/>
+    <POI id="833" type="1" lat="53.958207700000003" lon="-1.0671579" elevation="0" data="$Recycle.Bin"/>
+    <POI id="834" type="1" lat="53.956460999999997" lon="-1.0681716000000001" elevation="0" data="MSOCache"/>
+    <POI id="835" type="1" lat="53.953959599999997" lon="-1.1000722000000001" elevation="0" data="System Volume Information"/>
+    <POI id="836" type="1" lat="53.9530186" lon="-1.0983577" elevation="0" data="MSOCache"/>
+    <POI id="837" type="1" lat="53.954644600000002" lon="-1.0703963999999999" elevation="0" data="Temp"/>
+    <POI id="838" type="1" lat="53.9562977" lon="-1.0672953999999999" elevation="0" data="ProgramData"/>
+    <POI id="839" type="1" lat="53.957796399999999" lon="-1.0682666000000001" elevation="0" data="Python27"/>
+    <POI id="840" type="1" lat="53.9642853" lon="-1.0758174" elevation="0" data="BOOTNXT"/>
+    <POI id="841" type="1" lat="53.9550427" lon="-1.0789454000000001" elevation="0" data="pagefile.sys"/>
+    <POI id="842" type="1" lat="53.949376000000001" lon="-1.0853827" elevation="0" data="hiberfil.sys"/>
+    <POI id="843" type="1" lat="53.951154099999997" lon="-1.0869504999999999" elevation="0" data="Develop"/>
+    <POI id="844" type="1" lat="53.952418799999997" lon="-1.0785149000000001" elevation="0" data="System Volume Information"/>
+    <POI id="845" type="1" lat="53.952835899999997" lon="-1.0892824999999999" elevation="0" data="BOOTNXT"/>
+    <POI id="846" type="1" lat="53.9595597" lon="-1.0961886000000001" elevation="0" data="hiberfil.sys"/>
+    <POI id="847" type="1" lat="53.960319800000001" lon="-1.0952837" elevation="0" data="$Recycle.Bin"/>
+    <POI id="848" type="1" lat="53.957505300000001" lon="-1.0738344" elevation="0" data="Python27"/>
+    <POI id="849" type="1" lat="53.956578299999997" lon="-1.0794895" elevation="0" data="os_transfer"/>
+    <POI id="850" type="1" lat="53.954488300000001" lon="-1.0678396000000001" elevation="0" data="$Recycle.Bin"/>
+    <POI id="851" type="1" lat="53.961042900000002" lon="-1.0864073999999999" elevation="0" data="$WINDOWS.~BT"/>
+    <POI id="852" type="1" lat="53.958505799999998" lon="-1.0870466000000001" elevation="0" data="os_transfer"/>
+    <POI id="853" type="1" lat="53.958902899999998" lon="-1.0702551" elevation="0" data="$Recycle.Bin"/>
+    <POI id="854" type="1" lat="53.959162599999999" lon="-1.0694481" elevation="0" data="bootmgr"/>
+    <POI id="855" type="1" lat="53.958317800000003" lon="-1.0695383000000001" elevation="0" data="PerfLogs"/>
+    <POI id="856" type="1" lat="53.959293500000001" lon="-1.0694351" elevation="0" data="BOOTNXT"/>
+    <POI id="857" type="1" lat="53.959313000000002" lon="-1.0702005000000001" elevation="0" data="$Recycle.Bin"/>
+    <POI id="858" type="1" lat="53.9562046" lon="-1.0693036" elevation="0" data="FrameGrabber Recordings"/>
+    <POI id="859" type="1" lat="53.9560958" lon="-1.0696412" elevation="0" data="os_transfer"/>
+    <POI id="860" type="1" lat="53.9585626" lon="-1.0893231000000001" elevation="0" data="Develop"/>
+    <POI id="861" type="1" lat="53.956021300000003" lon="-1.0702659000000001" elevation="0" data="BOOTNXT"/>
+    <POI id="862" type="1" lat="53.952218299999998" lon="-1.0879861" elevation="0" data="Develop"/>
+    <POI id="863" type="1" lat="53.951516300000002" lon="-1.0962966999999999" elevation="0" data="os_transfer"/>
+    <POI id="864" type="1" lat="53.951186800000002" lon="-1.0986602000000001" elevation="0" data="Setup.log"/>
+    <POI id="865" type="1" lat="53.949137700000001" lon="-1.0981742000000001" elevation="0" data="PerfLogs"/>
+    <POI id="866" type="1" lat="53.942058000000003" lon="-1.1049065" elevation="0" data="Perl64"/>
+    <POI id="867" type="1" lat="53.949668000000003" lon="-1.0984263999999999" elevation="0" data="FrameGrabber Recordings"/>
+    <POI id="868" type="1" lat="53.951563200000002" lon="-1.0846412999999999" elevation="0" data="Users"/>
+    <POI id="869" type="1" lat="53.953656299999999" lon="-1.0872552" elevation="0" data="$WINDOWS.~BT"/>
+    <POI id="870" type="1" lat="53.9613029" lon="-1.0680191000000001" elevation="0" data="bootmgr"/>
+    <POI id="871" type="1" lat="53.958302699999997" lon="-1.0889454999999999" elevation="0" data="Develop"/>
+    <POI id="872" type="1" lat="53.962525399999997" lon="-1.0902898000000001" elevation="0" data="Recovery"/>
+    <POI id="873" type="1" lat="53.953402500000003" lon="-1.0943868999999999" elevation="0" data="Inkscape"/>
+    <POI id="874" type="1" lat="53.952242599999998" lon="-1.0969137" elevation="0" data="Setup.log"/>
+    <POI id="875" type="1" lat="53.952809299999998" lon="-1.1128161999999999" elevation="0" data="Setup.log"/>
+    <POI id="876" type="1" lat="53.948775699999999" lon="-1.0782288" elevation="0" data="System Volume Information"/>
+    <POI id="877" type="1" lat="53.955198099999997" lon="-1.0996222" elevation="0" data="Perl64"/>
+    <POI id="878" type="1" lat="53.953402500000003" lon="-1.0943868999999999" elevation="0" data="$WINDOWS.~BT"/>
+    <POI id="879" type="1" lat="53.955203699999998" lon="-1.0812649000000001" elevation="0" data="Recovery"/>
+    <POI id="880" type="1" lat="53.958882799999998" lon="-1.0667310000000001" elevation="0" data="pagefile.sys"/>
+    <POI id="881" type="1" lat="53.962143599999997" lon="-1.0670607999999999" elevation="0" data="BOOTNXT"/>
+    <POI id="882" type="1" lat="53.958396700000002" lon="-1.0781881" elevation="0" data="FrameGrabber Logs"/>
+    <POI id="883" type="1" lat="53.958576600000001" lon="-1.0779726000000001" elevation="0" data="Python27"/>
+    <POI id="884" type="1" lat="53.9656564" lon="-1.0661862" elevation="0" data="Users"/>
+    <POI id="885" type="1" lat="53.947367100000001" lon="-1.0736744" elevation="0" data="FrameGrabber Logs"/>
+    <POI id="886" type="1" lat="53.954276100000001" lon="-1.0686913" elevation="0" data="Recovery"/>
+    <POI id="887" type="1" lat="53.951718200000002" lon="-1.0752515" elevation="0" data="swapfile.sys"/>
+    <POI id="888" type="1" lat="53.9607837" lon="-1.0848114" elevation="0" data="hiberfil.sys"/>
+    <POI id="889" type="1" lat="53.960244000000003" lon="-1.0759802999999999" elevation="0" data="BOOTNXT"/>
+    <POI id="890" type="1" lat="53.958883499999999" lon="-1.0762400999999999" elevation="0" data="Documents and Settings"/>
+    <POI id="891" type="1" lat="53.9570121" lon="-1.0831679999999999" elevation="0" data="Perl64"/>
+    <POI id="892" type="1" lat="53.961086299999998" lon="-1.0789146000000001" elevation="0" data="PerfLogs"/>
+    <POI id="893" type="1" lat="53.963043200000001" lon="-1.0810346" elevation="0" data="BOOTNXT"/>
+    <POI id="894" type="1" lat="53.965656000000003" lon="-1.0757242" elevation="0" data="pagefile.sys"/>
+    <POI id="895" type="1" lat="53.965929299999999" lon="-1.0769419" elevation="0" data="Perl64"/>
+    <POI id="896" type="1" lat="53.9591317" lon="-1.0791061" elevation="0" data="System Volume Information"/>
+    <POI id="897" type="1" lat="53.956589899999997" lon="-1.0864130000000001" elevation="0" data="Develop"/>
+    <POI id="898" type="1" lat="53.956069300000003" lon="-1.0867355999999999" elevation="0" data="$Recycle.Bin"/>
+    <POI id="899" type="1" lat="53.955262500000003" lon="-1.0871489999999999" elevation="0" data="hiberfil.sys"/>
+    <POI id="900" type="1" lat="53.955964000000002" lon="-1.0855906" elevation="0" data="ProgramData"/>
+    <POI id="901" type="1" lat="53.9556422" lon="-1.0843640000000001" elevation="0" data="Setup.log"/>
+    <POI id="902" type="1" lat="53.954768600000001" lon="-1.0851944" elevation="0" data="hiberfil.sys"/>
+    <POI id="903" type="1" lat="53.966255699999998" lon="-1.0710704" elevation="0" data="swapfile.sys"/>
+    <POI id="904" type="1" lat="53.956520400000002" lon="-1.0776101" elevation="0" data="hiberfil.sys"/>
+    <POI id="905" type="1" lat="53.960681399999999" lon="-1.0778402" elevation="0" data="Program Files"/>
+    <POI id="906" type="1" lat="53.960557999999999" lon="-1.0787617" elevation="0" data="$Recycle.Bin"/>
+    <POI id="907" type="1" lat="53.957807099999997" lon="-1.0889941000000001" elevation="0" data="PerfLogs"/>
+    <POI id="908" type="1" lat="53.962157400000002" lon="-1.0776867999999999" elevation="0" data="swapfile.sys"/>
+    <POI id="909" type="1" lat="53.9619377" lon="-1.0773344" elevation="0" data="Intel"/>
+    <POI id="910" type="1" lat="53.956086800000001" lon="-1.0710328" elevation="0" data="PerfLogs"/>
+    <POI id="911" type="1" lat="53.960657300000001" lon="-1.0992957000000001" elevation="0" data="swapfile.sys"/>
+    <POI id="912" type="1" lat="53.952846800000003" lon="-1.0886203999999999" elevation="0" data="Perl64"/>
+    <POI id="913" type="1" lat="53.956985899999999" lon="-1.0757934" elevation="0" data="PerfLogs"/>
+    <POI id="914" type="1" lat="53.958165000000001" lon="-1.092195" elevation="0" data="swapfile.sys"/>
+    <POI id="915" type="1" lat="53.956265700000003" lon="-1.0842228" elevation="0" data="final-year-project"/>
+    <POI id="916" type="1" lat="53.9562521" lon="-1.0837247000000001" elevation="0" data="Develop"/>
+    <POI id="917" type="1" lat="53.9635088" lon="-1.0751714000000001" elevation="0" data="swapfile.sys"/>
+    <POI id="918" type="1" lat="53.963903799999997" lon="-1.0754908000000001" elevation="0" data="bootmgr"/>
+    <POI id="919" type="1" lat="53.963264199999998" lon="-1.0875311999999999" elevation="0" data="MSOCache"/>
+    <POI id="920" type="1" lat="53.958663999999999" lon="-1.0859042000000001" elevation="0" data="$Windows.~WS"/>
+    <POI id="921" type="1" lat="53.960880099999997" lon="-1.0809789999999999" elevation="0" data="hiberfil.sys"/>
+    <POI id="922" type="1" lat="53.962944" lon="-1.0903261" elevation="0" data="ProgramData"/>
+    <POI id="923" type="1" lat="53.959954699999997" lon="-1.0734169" elevation="0" data="$Windows.~WS"/>
+    <POI id="924" type="1" lat="53.9597537" lon="-1.0805148" elevation="0" data="FrameGrabber Recordings"/>
+    <POI id="925" type="1" lat="53.956986100000002" lon="-1.0841026" elevation="0" data="final-year-project"/>
+    <POI id="926" type="1" lat="53.966159699999999" lon="-1.0679430999999999" elevation="0" data="ProgramData"/>
+    <POI id="927" type="1" lat="53.955881499999997" lon="-1.0976203" elevation="0" data="FrameGrabber Logs"/>
+    <POI id="928" type="1" lat="53.965786100000003" lon="-1.0893413999999999" elevation="0" data="ProgramData"/>
+    <POI id="929" type="1" lat="53.965823399999998" lon="-1.0913090000000001" elevation="0" data="Documents and Settings"/>
+    <POI id="930" type="1" lat="53.953653000000003" lon="-1.0980266999999999" elevation="0" data="Perl64"/>
+    <POI id="931" type="1" lat="53.953412800000002" lon="-1.0976619999999999" elevation="0" data="FrameGrabber Recordings"/>
+    <POI id="932" type="1" lat="53.962131800000002" lon="-1.0892887" elevation="0" data="Program Files"/>
+    <POI id="933" type="1" lat="53.9602127" lon="-1.0845988" elevation="0" data="Perl64"/>
+    <POI id="934" type="1" lat="53.947610099999999" lon="-1.0861362999999999" elevation="0" data="hiberfil.sys"/>
+    <POI id="935" type="1" lat="53.960725600000004" lon="-1.0627601" elevation="0" data="BOOTNXT"/>
+    <POI id="936" type="1" lat="53.958132900000003" lon="-1.0948819999999999" elevation="0" data="System Volume Information"/>
+    <POI id="937" type="1" lat="53.959299100000003" lon="-1.0946149999999999" elevation="0" data="ProgramData"/>
+    <POI id="938" type="1" lat="53.956363000000003" lon="-1.0878683" elevation="0" data="swapfile.sys"/>
+    <POI id="939" type="1" lat="53.9587006" lon="-1.0672447" elevation="0" data="System Volume Information"/>
+    <POI id="940" type="1" lat="53.963562199999998" lon="-1.0772421999999999" elevation="0" data="ProgramData"/>
+    <POI id="941" type="1" lat="53.954298199999997" lon="-1.0832951" elevation="0" data="Documents and Settings"/>
+    <POI id="942" type="1" lat="53.962432" lon="-1.0697738999999999" elevation="0" data="Recovery"/>
+    <POI id="943" type="1" lat="53.953831800000003" lon="-1.0949872" elevation="0" data="Program Files (x86)"/>
+    <POI id="944" type="1" lat="53.965059500000002" lon="-1.0758235" elevation="0" data="swapfile.sys"/>
+    <POI id="945" type="1" lat="53.9655165" lon="-1.0667827000000001" elevation="0" data="$Windows.~WS"/>
+    <POI id="946" type="1" lat="53.970714299999997" lon="-1.0980131" elevation="0" data="Inkscape"/>
+    <POI id="947" type="1" lat="53.960718800000002" lon="-1.0838036" elevation="0" data="System Volume Information"/>
+    <POI id="948" type="1" lat="53.957356799999999" lon="-1.0843313999999999" elevation="0" data="$WINDOWS.~BT"/>
+    <POI id="949" type="1" lat="53.957126299999999" lon="-1.0795863000000001" elevation="0" data="Develop"/>
+    <POI id="950" type="1" lat="53.9560672" lon="-1.0932202" elevation="0" data="FrameGrabber Logs"/>
+    <POI id="951" type="1" lat="53.955426899999999" lon="-1.086543" elevation="0" data="Windows"/>
+    <POI id="952" type="1" lat="53.9557243" lon="-1.0875748000000001" elevation="0" data="BOOTNXT"/>
+    <POI id="953" type="1" lat="53.965644300000001" lon="-1.0827705999999999" elevation="0" data="bootmgr"/>
+    <POI id="954" type="1" lat="53.960751999999999" lon="-1.0823122999999999" elevation="0" data="swapfile.sys"/>
+    <POI id="955" type="1" lat="53.9616148" lon="-1.0820065000000001" elevation="0" data="hiberfil.sys"/>
+    <POI id="956" type="1" lat="53.9597002" lon="-1.0857422999999999" elevation="0" data="os_transfer"/>
+    <POI id="957" type="1" lat="53.956746299999999" lon="-1.0812379999999999" elevation="0" data="Windows"/>
+    <POI id="958" type="1" lat="53.959906199999999" lon="-1.0929644000000001" elevation="0" data="pagefile.sys"/>
+    <POI id="959" type="1" lat="53.957991399999997" lon="-1.0968823000000001" elevation="0" data="Setup.log"/>
+    <POI id="960" type="1" lat="53.956716499999999" lon="-1.0743676" elevation="0" data="$WINDOWS.~BT"/>
+    <POI id="961" type="1" lat="53.958836699999999" lon="-1.0798174" elevation="0" data="bootmgr"/>
+    <POI id="962" type="1" lat="53.966188199999998" lon="-1.0910476" elevation="0" data="Documents and Settings"/>
+    <POI id="963" type="1" lat="53.952593" lon="-1.0744876000000001" elevation="0" data="Recovery"/>
+    <POI id="964" type="1" lat="53.951912499999999" lon="-1.0758747" elevation="0" data="Program Files"/>
+    <POI id="965" type="1" lat="53.954220900000003" lon="-1.0946288" elevation="0" data="Setup.log"/>
+</POIs>
