@@ -4,3 +4,7 @@ PoiGenerator/Debug/*
 PoiGenerator/Release/*
 *.sdf
 *.user
+poi-generator
+poi_base.xml
+poi.xml
+build/*

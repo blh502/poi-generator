@@ -9,7 +9,7 @@
 #ifdef _WIN32
 #include <Windows.h>
 #else // Assume Linux
-
+#include <dirent.h>
 #endif // WINDOWS
 
 void printUsage()
@@ -43,9 +43,20 @@ void getFilesInDir(const char * szDir, std::vector<std::string> & svFilenames)
 		} while (FindNextFile(hFind, &ffd) != 0);
 	}
 #else // Assume Linux
-
-
-
+	DIR * pDir;
+	struct dirent * pDirEnt;
+	if ((pDir = opendir(szDir)) != 0)
+	{
+		while ((pDirEnt = readdir(pDir)) != 0)
+		{
+			std::string ssFile = pDirEnt->d_name;
+			if (ssFile != "." && ssFile != "..")
+			{
+				svFilenames.push_back(ssFile);
+			}
+		}
+		closedir(pDir);
+	}
 #endif // WINDOWS
 }
 
